@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<USERDATA>
+  <Session A="">
+    <GeneralDiscomfort>1</GeneralDiscomfort>
+    <Fatigue>1</Fatigue>
+    <EyeStraing>1</EyeStraing>
+    <DifficultyFocusing>2</DifficultyFocusing>
+    <Headache>0</Headache>
+    <FulnessOfHead>1</FulnessOfHead>
+    <BlurredVision>0</BlurredVision>
+    <DizzyEyesClosed>0</DizzyEyesClosed>
+    <Vertigo>0</Vertigo>
+  </Session>
+  <Session B="">
+    <GeneralDiscomfort>2</GeneralDiscomfort>
+    <Fatigue>3</Fatigue>
+    <EyeStraing>2</EyeStraing>
+    <DifficultyFocusing>3</DifficultyFocusing>
+    <Headache>2</Headache>
+    <FulnessOfHead>2</FulnessOfHead>
+    <BlurredVision>0</BlurredVision>
+    <DizzyEyesClosed>3</DizzyEyesClosed>
+    <Vertigo>2</Vertigo>
+  </Session>
+</USERDATA>
