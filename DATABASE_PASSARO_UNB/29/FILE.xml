@@ -18,19 +18,19 @@
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
     <TimeStamp>0</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>10</PlayerSpeed>
     <PlayerAcceleration>10</PlayerAcceleration>
-    <CameraRotationX>0,03699316</CameraRotationX>
-    <CameraRotationY>-0,02271682</CameraRotationY>
-    <CameraRotationZ>0,008800205</CameraRotationZ>
+    <CameraRotationX>0.03699316</CameraRotationX>
+    <CameraRotationY>-0.02271682</CameraRotationY>
+    <CameraRotationZ>0.008800205</CameraRotationZ>
     <PlayerPositionX>0</PlayerPositionX>
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>0</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="0,999481">
+  <Data TimeStamp="0.999481">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -47,20 +47,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>0,999481</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>0.999481</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>10</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,04167992</CameraRotationX>
-    <CameraRotationY>-0,02460489</CameraRotationY>
-    <CameraRotationZ>0,01007346</CameraRotationZ>
+    <CameraRotationX>0.04167992</CameraRotationX>
+    <CameraRotationY>-0.02460489</CameraRotationY>
+    <CameraRotationZ>0.01007346</CameraRotationZ>
     <PlayerPositionX>0</PlayerPositionX>
     <PlayerPositionY>12</PlayerPositionY>
-    <PlayerPositionZ>9,994813</PlayerPositionZ>
+    <PlayerPositionZ>9.994813</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="2,004848">
+  <Data TimeStamp="2.004848">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -77,20 +77,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>2,004848</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>2.004848</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>10</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,04020236</CameraRotationX>
-    <CameraRotationY>-0,01494479</CameraRotationY>
-    <CameraRotationZ>0,006095944</CameraRotationZ>
-    <PlayerPositionX>-5,025648</PlayerPositionX>
+    <CameraRotationX>0.04020236</CameraRotationX>
+    <CameraRotationY>-0.01494479</CameraRotationY>
+    <CameraRotationZ>0.006095944</CameraRotationZ>
+    <PlayerPositionX>-5.025648</PlayerPositionX>
     <PlayerPositionY>12</PlayerPositionY>
-    <PlayerPositionZ>20,04848</PlayerPositionZ>
+    <PlayerPositionZ>20.04848</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="2,998366">
+  <Data TimeStamp="2.998366">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -107,20 +107,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>2,998366</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>2.998366</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>10</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,04046513</CameraRotationX>
-    <CameraRotationY>-0,01793868</CameraRotationY>
-    <CameraRotationZ>-0,009702944</CameraRotationZ>
-    <PlayerPositionX>-7,439757</PlayerPositionX>
-    <PlayerPositionY>10,30026</PlayerPositionY>
-    <PlayerPositionZ>29,98367</PlayerPositionZ>
+    <CameraRotationX>0.04046513</CameraRotationX>
+    <CameraRotationY>-0.01793868</CameraRotationY>
+    <CameraRotationZ>-0.009702944</CameraRotationZ>
+    <PlayerPositionX>-7.439757</PlayerPositionX>
+    <PlayerPositionY>10.30026</PlayerPositionY>
+    <PlayerPositionZ>29.98367</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="4,003711">
+  <Data TimeStamp="4.003711">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -137,20 +137,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>4,003711</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>4.003711</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>0,02455847</CameraRotationX>
-    <CameraRotationY>-0,02564277</CameraRotationY>
-    <CameraRotationZ>0,01131445</CameraRotationZ>
-    <PlayerPositionX>-0,7895063</PlayerPositionX>
-    <PlayerPositionY>5,527433</PlayerPositionY>
-    <PlayerPositionZ>44,00416</PlayerPositionZ>
+    <CameraRotationX>0.02455847</CameraRotationX>
+    <CameraRotationY>-0.02564277</CameraRotationY>
+    <CameraRotationZ>0.01131445</CameraRotationZ>
+    <PlayerPositionX>-0.7895063</PlayerPositionX>
+    <PlayerPositionY>5.527433</PlayerPositionY>
+    <PlayerPositionZ>44.00416</PlayerPositionZ>
     <GameFps>86</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="4,998142">
+  <Data TimeStamp="4.998142">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -167,20 +167,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>4,998142</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>4.998142</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01011942</CameraRotationX>
-    <CameraRotationY>-0,0527404</CameraRotationY>
-    <CameraRotationZ>0,0272699</CameraRotationZ>
-    <PlayerPositionX>-1,066722</PlayerPositionX>
-    <PlayerPositionY>0,9155708</PlayerPositionY>
-    <PlayerPositionZ>58,92061</PlayerPositionZ>
+    <CameraRotationX>0.01011942</CameraRotationX>
+    <CameraRotationY>-0.0527404</CameraRotationY>
+    <CameraRotationZ>0.0272699</CameraRotationZ>
+    <PlayerPositionX>-1.066722</PlayerPositionX>
+    <PlayerPositionY>0.9155708</PlayerPositionY>
+    <PlayerPositionZ>58.92061</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="6,003384">
+  <Data TimeStamp="6.003384">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -197,20 +197,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>6,003384</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>6.003384</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,004329739</CameraRotationX>
-    <CameraRotationY>-0,0568805</CameraRotationY>
-    <CameraRotationZ>0,02980868</CameraRotationZ>
-    <PlayerPositionX>1,841498</PlayerPositionX>
-    <PlayerPositionY>0,9211923</PlayerPositionY>
-    <PlayerPositionZ>73,99923</PlayerPositionZ>
+    <CameraRotationX>0.004329739</CameraRotationX>
+    <CameraRotationY>-0.0568805</CameraRotationY>
+    <CameraRotationZ>0.02980868</CameraRotationZ>
+    <PlayerPositionX>1.841498</PlayerPositionX>
+    <PlayerPositionY>0.9211923</PlayerPositionY>
+    <PlayerPositionZ>73.99923</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="6,997734">
+  <Data TimeStamp="6.997734">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -227,20 +227,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>6,997734</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>6.997734</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,006607072</CameraRotationX>
-    <CameraRotationY>-0,06215258</CameraRotationY>
-    <CameraRotationZ>0,0390416</CameraRotationZ>
-    <PlayerPositionX>-1,860795</PlayerPositionX>
-    <PlayerPositionY>3,840256</PlayerPositionY>
-    <PlayerPositionZ>88,91446</PlayerPositionZ>
+    <CameraRotationX>0.006607072</CameraRotationX>
+    <CameraRotationY>-0.06215258</CameraRotationY>
+    <CameraRotationZ>0.0390416</CameraRotationZ>
+    <PlayerPositionX>-1.860795</PlayerPositionX>
+    <PlayerPositionY>3.840256</PlayerPositionY>
+    <PlayerPositionZ>88.91446</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="8,002743">
+  <Data TimeStamp="8.002743">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -257,20 +257,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>8,002743</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>8.002743</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01006974</CameraRotationX>
-    <CameraRotationY>-0,04972955</CameraRotationY>
-    <CameraRotationZ>0,02298168</CameraRotationZ>
-    <PlayerPositionX>-11,26169</PlayerPositionX>
-    <PlayerPositionY>5,014385</PlayerPositionY>
-    <PlayerPositionZ>103,9896</PlayerPositionZ>
+    <CameraRotationX>0.01006974</CameraRotationX>
+    <CameraRotationY>-0.04972955</CameraRotationY>
+    <CameraRotationZ>0.02298168</CameraRotationZ>
+    <PlayerPositionX>-11.26169</PlayerPositionX>
+    <PlayerPositionY>5.014385</PlayerPositionY>
+    <PlayerPositionZ>103.9896</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="8,996949">
+  <Data TimeStamp="8.996949">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -287,20 +287,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>8,996949</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>8.996949</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,00772781</CameraRotationX>
-    <CameraRotationY>-0,06101982</CameraRotationY>
-    <CameraRotationZ>0,0421196</CameraRotationZ>
-    <PlayerPositionX>-11,33894</PlayerPositionX>
-    <PlayerPositionY>7,314537</PlayerPositionY>
-    <PlayerPositionZ>118,9026</PlayerPositionZ>
+    <CameraRotationX>0.00772781</CameraRotationX>
+    <CameraRotationY>-0.06101982</CameraRotationY>
+    <CameraRotationZ>0.0421196</CameraRotationZ>
+    <PlayerPositionX>-11.33894</PlayerPositionX>
+    <PlayerPositionY>7.314537</PlayerPositionY>
+    <PlayerPositionZ>118.9026</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="10,00181">
+  <Data TimeStamp="10.00181">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -317,20 +317,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>10,00181</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>10.00181</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01622865</CameraRotationX>
-    <CameraRotationY>-0,05243088</CameraRotationY>
-    <CameraRotationZ>0,04650937</CameraRotationZ>
-    <PlayerPositionX>-6,816186</PlayerPositionX>
-    <PlayerPositionY>8,891329</PlayerPositionY>
-    <PlayerPositionZ>133,9756</PlayerPositionZ>
+    <CameraRotationX>0.01622865</CameraRotationX>
+    <CameraRotationY>-0.05243088</CameraRotationY>
+    <CameraRotationZ>0.04650937</CameraRotationZ>
+    <PlayerPositionX>-6.816186</PlayerPositionX>
+    <PlayerPositionY>8.891329</PlayerPositionY>
+    <PlayerPositionZ>133.9756</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="10,99604">
+  <Data TimeStamp="10.99604">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -347,20 +347,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>10,99604</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>10.99604</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,02235635</CameraRotationX>
-    <CameraRotationY>-0,04210162</CameraRotationY>
-    <CameraRotationZ>0,03769221</CameraRotationZ>
-    <PlayerPositionX>-0,2396888</PlayerPositionX>
-    <PlayerPositionY>9,636855</PlayerPositionY>
-    <PlayerPositionZ>148,8891</PlayerPositionZ>
+    <CameraRotationX>0.02235635</CameraRotationX>
+    <CameraRotationY>-0.04210162</CameraRotationY>
+    <CameraRotationZ>0.03769221</CameraRotationZ>
+    <PlayerPositionX>-0.2396888</PlayerPositionX>
+    <PlayerPositionY>9.636855</PlayerPositionY>
+    <PlayerPositionZ>148.8891</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="12,00174">
+  <Data TimeStamp="12.00174">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -377,20 +377,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>12,00174</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>12.00174</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,03257967</CameraRotationX>
-    <CameraRotationY>-0,04810754</CameraRotationY>
-    <CameraRotationZ>0,0465864</CameraRotationZ>
-    <PlayerPositionX>9,638317</PlayerPositionX>
-    <PlayerPositionY>11,62018</PlayerPositionY>
-    <PlayerPositionZ>163,9747</PlayerPositionZ>
+    <CameraRotationX>0.03257967</CameraRotationX>
+    <CameraRotationY>-0.04810754</CameraRotationY>
+    <CameraRotationZ>0.0465864</CameraRotationZ>
+    <PlayerPositionX>9.638317</PlayerPositionX>
+    <PlayerPositionY>11.62018</PlayerPositionY>
+    <PlayerPositionZ>163.9747</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="12,99577">
+  <Data TimeStamp="12.99577">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -407,20 +407,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>12,99577</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>12.99577</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,02782969</CameraRotationX>
-    <CameraRotationY>-0,06449616</CameraRotationY>
-    <CameraRotationZ>0,05596053</CameraRotationZ>
-    <PlayerPositionX>11,44021</PlayerPositionX>
-    <PlayerPositionY>4,433566</PlayerPositionY>
-    <PlayerPositionZ>178,8851</PlayerPositionZ>
+    <CameraRotationX>0.02782969</CameraRotationX>
+    <CameraRotationY>-0.06449616</CameraRotationY>
+    <CameraRotationZ>0.05596053</CameraRotationZ>
+    <PlayerPositionX>11.44021</PlayerPositionX>
+    <PlayerPositionY>4.433566</PlayerPositionY>
+    <PlayerPositionZ>178.8851</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="14,00031">
+  <Data TimeStamp="14.00031">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -437,20 +437,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>14,00031</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>14.00031</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,02551969</CameraRotationX>
-    <CameraRotationY>-0,05998556</CameraRotationY>
-    <CameraRotationZ>0,05168839</CameraRotationZ>
-    <PlayerPositionX>12,96253</PlayerPositionX>
-    <PlayerPositionY>2,496162</PlayerPositionY>
-    <PlayerPositionZ>193,9532</PlayerPositionZ>
+    <CameraRotationX>0.02551969</CameraRotationX>
+    <CameraRotationY>-0.05998556</CameraRotationY>
+    <CameraRotationZ>0.05168839</CameraRotationZ>
+    <PlayerPositionX>12.96253</PlayerPositionX>
+    <PlayerPositionY>2.496162</PlayerPositionY>
+    <PlayerPositionZ>193.9532</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="15,00626">
+  <Data TimeStamp="15.00626">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -467,20 +467,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>15,00626</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>15.00626</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01874648</CameraRotationX>
-    <CameraRotationY>-0,07493299</CameraRotationY>
-    <CameraRotationZ>0,06158911</CameraRotationZ>
-    <PlayerPositionX>8,246379</PlayerPositionX>
-    <PlayerPositionY>4,74447</PlayerPositionY>
-    <PlayerPositionZ>209,0425</PlayerPositionZ>
+    <CameraRotationX>0.01874648</CameraRotationX>
+    <CameraRotationY>-0.07493299</CameraRotationY>
+    <CameraRotationZ>0.06158911</CameraRotationZ>
+    <PlayerPositionX>8.246379</PlayerPositionX>
+    <PlayerPositionY>4.74447</PlayerPositionY>
+    <PlayerPositionZ>209.0425</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="15,99983">
+  <Data TimeStamp="15.99983">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -497,20 +497,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>15,99983</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>15.99983</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01581592</CameraRotationX>
-    <CameraRotationY>-0,08404515</CameraRotationY>
-    <CameraRotationZ>0,05254277</CameraRotationZ>
-    <PlayerPositionX>-0,2651255</PlayerPositionX>
-    <PlayerPositionY>10,906</PlayerPositionY>
-    <PlayerPositionZ>223,946</PlayerPositionZ>
+    <CameraRotationX>0.01581592</CameraRotationX>
+    <CameraRotationY>-0.08404515</CameraRotationY>
+    <CameraRotationZ>0.05254277</CameraRotationZ>
+    <PlayerPositionX>-0.2651255</PlayerPositionX>
+    <PlayerPositionY>10.906</PlayerPositionY>
+    <PlayerPositionZ>223.946</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="17,00562">
+  <Data TimeStamp="17.00562">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -527,20 +527,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>17,00562</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>17.00562</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,02143115</CameraRotationX>
-    <CameraRotationY>-0,09754826</CameraRotationY>
-    <CameraRotationZ>0,0539324</CameraRotationZ>
-    <PlayerPositionX>-5,781186</PlayerPositionX>
-    <PlayerPositionY>12,00627</PlayerPositionY>
-    <PlayerPositionZ>239,033</PlayerPositionZ>
+    <CameraRotationX>0.02143115</CameraRotationX>
+    <CameraRotationY>-0.09754826</CameraRotationY>
+    <CameraRotationZ>0.0539324</CameraRotationZ>
+    <PlayerPositionX>-5.781186</PlayerPositionX>
+    <PlayerPositionY>12.00627</PlayerPositionY>
+    <PlayerPositionZ>239.033</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="17,99941">
+  <Data TimeStamp="17.99941">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -557,20 +557,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>17,99941</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>17.99941</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01980532</CameraRotationX>
-    <CameraRotationY>-0,1012212</CameraRotationY>
-    <CameraRotationZ>0,05684407</CameraRotationZ>
-    <PlayerPositionX>-10,84162</PlayerPositionX>
-    <PlayerPositionY>8,400201</PlayerPositionY>
-    <PlayerPositionZ>253,9399</PlayerPositionZ>
+    <CameraRotationX>0.01980532</CameraRotationX>
+    <CameraRotationY>-0.1012212</CameraRotationY>
+    <CameraRotationZ>0.05684407</CameraRotationZ>
+    <PlayerPositionX>-10.84162</PlayerPositionX>
+    <PlayerPositionY>8.400201</PlayerPositionY>
+    <PlayerPositionZ>253.9399</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="19,00425">
+  <Data TimeStamp="19.00425">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -587,20 +587,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>foreground</RegionOfInterest>
-    <TimeStamp>19,00425</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>19.00425</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01954738</CameraRotationX>
-    <CameraRotationY>-0,0890602</CameraRotationY>
-    <CameraRotationZ>0,04688966</CameraRotationZ>
-    <PlayerPositionX>-15,20579</PlayerPositionX>
-    <PlayerPositionY>8,2466</PlayerPositionY>
-    <PlayerPositionZ>269,0128</PlayerPositionZ>
+    <CameraRotationX>0.01954738</CameraRotationX>
+    <CameraRotationY>-0.0890602</CameraRotationY>
+    <CameraRotationZ>0.04688966</CameraRotationZ>
+    <PlayerPositionX>-15.20579</PlayerPositionX>
+    <PlayerPositionY>8.2466</PlayerPositionY>
+    <PlayerPositionZ>269.0128</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="19,99867">
+  <Data TimeStamp="19.99867">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -617,20 +617,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>19,99867</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>19.99867</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>0,0185483</CameraRotationX>
-    <CameraRotationY>-0,09117139</CameraRotationY>
-    <CameraRotationZ>0,05096639</CameraRotationZ>
-    <PlayerPositionX>-14,6829</PlayerPositionX>
-    <PlayerPositionY>6,12875</PlayerPositionY>
-    <PlayerPositionZ>287,8952</PlayerPositionZ>
+    <CameraRotationX>0.0185483</CameraRotationX>
+    <CameraRotationY>-0.09117139</CameraRotationY>
+    <CameraRotationZ>0.05096639</CameraRotationZ>
+    <PlayerPositionX>-14.6829</PlayerPositionX>
+    <PlayerPositionY>6.12875</PlayerPositionY>
+    <PlayerPositionZ>287.8952</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="21,00395">
+  <Data TimeStamp="21.00395">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -647,20 +647,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>21,00395</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>21.00395</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01522337</CameraRotationX>
-    <CameraRotationY>-0,09376206</CameraRotationY>
-    <CameraRotationZ>0,05964042</CameraRotationZ>
-    <PlayerPositionX>-7,481841</PlayerPositionX>
-    <PlayerPositionY>0,9712636</PlayerPositionY>
-    <PlayerPositionZ>308,0006</PlayerPositionZ>
+    <CameraRotationX>0.01522337</CameraRotationX>
+    <CameraRotationY>-0.09376206</CameraRotationY>
+    <CameraRotationZ>0.05964042</CameraRotationZ>
+    <PlayerPositionX>-7.481841</PlayerPositionX>
+    <PlayerPositionY>0.9712636</PlayerPositionY>
+    <PlayerPositionZ>308.0006</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="21,99782">
+  <Data TimeStamp="21.99782">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -677,20 +677,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>21,99782</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>21.99782</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01891544</CameraRotationX>
-    <CameraRotationY>-0,08242945</CameraRotationY>
-    <CameraRotationZ>0,04623007</CameraRotationZ>
-    <PlayerPositionX>-7,971669</PlayerPositionX>
-    <PlayerPositionY>4,942062</PlayerPositionY>
-    <PlayerPositionZ>327,8782</PlayerPositionZ>
+    <CameraRotationX>0.01891544</CameraRotationX>
+    <CameraRotationY>-0.08242945</CameraRotationY>
+    <CameraRotationZ>0.04623007</CameraRotationZ>
+    <PlayerPositionX>-7.971669</PlayerPositionX>
+    <PlayerPositionY>4.942062</PlayerPositionY>
+    <PlayerPositionZ>327.8782</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="23,00264">
+  <Data TimeStamp="23.00264">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -707,20 +707,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>23,00264</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>23.00264</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01819358</CameraRotationX>
-    <CameraRotationY>-0,08684489</CameraRotationY>
-    <CameraRotationZ>0,05313741</CameraRotationZ>
-    <PlayerPositionX>-5,887236</PlayerPositionX>
-    <PlayerPositionY>7,300003</PlayerPositionY>
-    <PlayerPositionZ>347,9746</PlayerPositionZ>
+    <CameraRotationX>0.01819358</CameraRotationX>
+    <CameraRotationY>-0.08684489</CameraRotationY>
+    <CameraRotationZ>0.05313741</CameraRotationZ>
+    <PlayerPositionX>-5.887236</PlayerPositionX>
+    <PlayerPositionY>7.300003</PlayerPositionY>
+    <PlayerPositionZ>347.9746</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="23,99725">
+  <Data TimeStamp="23.99725">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -737,20 +737,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>23,99725</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>23.99725</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>-5</PlayerAcceleration>
-    <CameraRotationX>0,01233215</CameraRotationX>
-    <CameraRotationY>-0,0880836</CameraRotationY>
-    <CameraRotationZ>0,05665967</CameraRotationZ>
-    <PlayerPositionX>-6,879999</PlayerPositionX>
-    <PlayerPositionY>4,340443</PlayerPositionY>
-    <PlayerPositionZ>365,1875</PlayerPositionZ>
+    <CameraRotationX>0.01233215</CameraRotationX>
+    <CameraRotationY>-0.0880836</CameraRotationY>
+    <CameraRotationZ>0.05665967</CameraRotationZ>
+    <PlayerPositionX>-6.879999</PlayerPositionX>
+    <PlayerPositionY>4.340443</PlayerPositionY>
+    <PlayerPositionZ>365.1875</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="25,00263">
+  <Data TimeStamp="25.00263">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -767,20 +767,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>25,00263</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>25.00263</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01721161</CameraRotationX>
-    <CameraRotationY>-0,08741117</CameraRotationY>
-    <CameraRotationZ>0,05235632</CameraRotationZ>
-    <PlayerPositionX>-10,00124</PlayerPositionX>
-    <PlayerPositionY>6,287243</PlayerPositionY>
-    <PlayerPositionZ>380,2684</PlayerPositionZ>
+    <CameraRotationX>0.01721161</CameraRotationX>
+    <CameraRotationY>-0.08741117</CameraRotationY>
+    <CameraRotationZ>0.05235632</CameraRotationZ>
+    <PlayerPositionX>-10.00124</PlayerPositionX>
+    <PlayerPositionY>6.287243</PlayerPositionY>
+    <PlayerPositionZ>380.2684</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="25,99698">
+  <Data TimeStamp="25.99698">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -797,20 +797,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>25,99698</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>25.99698</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01465837</CameraRotationX>
-    <CameraRotationY>-0,09300093</CameraRotationY>
-    <CameraRotationZ>0,06024903</CameraRotationZ>
-    <PlayerPositionX>-11,01855</PlayerPositionX>
-    <PlayerPositionY>6,837291</PlayerPositionY>
-    <PlayerPositionZ>395,1836</PlayerPositionZ>
+    <CameraRotationX>0.01465837</CameraRotationX>
+    <CameraRotationY>-0.09300093</CameraRotationY>
+    <CameraRotationZ>0.06024903</CameraRotationZ>
+    <PlayerPositionX>-11.01855</PlayerPositionX>
+    <PlayerPositionY>6.837291</PlayerPositionY>
+    <PlayerPositionZ>395.1836</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="27,0018">
+  <Data TimeStamp="27.0018">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -827,20 +827,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>27,0018</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>27.0018</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,02038639</CameraRotationX>
-    <CameraRotationY>-0,0809399</CameraRotationY>
-    <CameraRotationZ>0,04291359</CameraRotationZ>
-    <PlayerPositionX>-18,46146</PlayerPositionX>
-    <PlayerPositionY>8,071424</PlayerPositionY>
-    <PlayerPositionZ>410,2559</PlayerPositionZ>
+    <CameraRotationX>0.02038639</CameraRotationX>
+    <CameraRotationY>-0.0809399</CameraRotationY>
+    <CameraRotationZ>0.04291359</CameraRotationZ>
+    <PlayerPositionX>-18.46146</PlayerPositionX>
+    <PlayerPositionY>8.071424</PlayerPositionY>
+    <PlayerPositionZ>410.2559</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="27,99597">
+  <Data TimeStamp="27.99597">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -857,20 +857,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>27,99597</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>27.99597</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,02065294</CameraRotationX>
-    <CameraRotationY>-0,08643509</CameraRotationY>
-    <CameraRotationZ>0,05457826</CameraRotationZ>
-    <PlayerPositionX>-19,0951</PlayerPositionX>
-    <PlayerPositionY>7,542189</PlayerPositionY>
-    <PlayerPositionZ>425,1684</PlayerPositionZ>
+    <CameraRotationX>0.02065294</CameraRotationX>
+    <CameraRotationY>-0.08643509</CameraRotationY>
+    <CameraRotationZ>0.05457826</CameraRotationZ>
+    <PlayerPositionX>-19.0951</PlayerPositionX>
+    <PlayerPositionY>7.542189</PlayerPositionY>
+    <PlayerPositionZ>425.1684</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="29,00061">
+  <Data TimeStamp="29.00061">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -887,20 +887,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>29,00061</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>29.00061</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>0,01638351</CameraRotationX>
-    <CameraRotationY>-0,08433475</CameraRotationY>
-    <CameraRotationZ>0,05124716</CameraRotationZ>
-    <PlayerPositionX>-18,88842</PlayerPositionX>
-    <PlayerPositionY>6,090713</PlayerPositionY>
-    <PlayerPositionZ>441,2971</PlayerPositionZ>
+    <CameraRotationX>0.01638351</CameraRotationX>
+    <CameraRotationY>-0.08433475</CameraRotationY>
+    <CameraRotationZ>0.05124716</CameraRotationZ>
+    <PlayerPositionX>-18.88842</PlayerPositionX>
+    <PlayerPositionY>6.090713</PlayerPositionY>
+    <PlayerPositionZ>441.2971</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="30,00646">
+  <Data TimeStamp="30.00646">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -917,20 +917,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>30,00646</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>30.00646</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01521598</CameraRotationX>
-    <CameraRotationY>-0,06777665</CameraRotationY>
-    <CameraRotationZ>0,04920359</CameraRotationZ>
-    <PlayerPositionX>-9,549882</PlayerPositionX>
-    <PlayerPositionY>4,769924</PlayerPositionY>
-    <PlayerPositionZ>461,4144</PlayerPositionZ>
+    <CameraRotationX>0.01521598</CameraRotationX>
+    <CameraRotationY>-0.06777665</CameraRotationY>
+    <CameraRotationZ>0.04920359</CameraRotationZ>
+    <PlayerPositionX>-9.549882</PlayerPositionX>
+    <PlayerPositionY>4.769924</PlayerPositionY>
+    <PlayerPositionZ>461.4144</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="31,00101">
+  <Data TimeStamp="31.00101">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -947,20 +947,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>31,00101</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>31.00101</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,003806258</CameraRotationX>
-    <CameraRotationY>0,03556312</CameraRotationY>
-    <CameraRotationZ>0,04212357</CameraRotationZ>
-    <PlayerPositionX>-5,085928</PlayerPositionX>
-    <PlayerPositionY>6,363721</PlayerPositionY>
-    <PlayerPositionZ>481,3055</PlayerPositionZ>
+    <CameraRotationX>0.003806258</CameraRotationX>
+    <CameraRotationY>0.03556312</CameraRotationY>
+    <CameraRotationZ>0.04212357</CameraRotationZ>
+    <PlayerPositionX>-5.085928</PlayerPositionX>
+    <PlayerPositionY>6.363721</PlayerPositionY>
+    <PlayerPositionZ>481.3055</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="32,00637">
+  <Data TimeStamp="32.00637">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -977,20 +977,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>32,00637</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>32.00637</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,003892711</CameraRotationX>
-    <CameraRotationY>0,0616306</CameraRotationY>
-    <CameraRotationZ>0,05396412</CameraRotationZ>
-    <PlayerPositionX>8,171256</PlayerPositionX>
-    <PlayerPositionY>7,752236</PlayerPositionY>
-    <PlayerPositionZ>501,4125</PlayerPositionZ>
+    <CameraRotationX>-0.003892711</CameraRotationX>
+    <CameraRotationY>0.0616306</CameraRotationY>
+    <CameraRotationZ>0.05396412</CameraRotationZ>
+    <PlayerPositionX>8.171256</PlayerPositionX>
+    <PlayerPositionY>7.752236</PlayerPositionY>
+    <PlayerPositionZ>501.4125</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="32,99981">
+  <Data TimeStamp="32.99981">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1007,20 +1007,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>32,99981</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>32.99981</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,01438512</CameraRotationX>
-    <CameraRotationY>0,02174039</CameraRotationY>
-    <CameraRotationZ>0,05243747</CameraRotationZ>
-    <PlayerPositionX>11,88241</PlayerPositionX>
-    <PlayerPositionY>11,0786</PlayerPositionY>
-    <PlayerPositionZ>521,2816</PlayerPositionZ>
+    <CameraRotationX>0.01438512</CameraRotationX>
+    <CameraRotationY>0.02174039</CameraRotationY>
+    <CameraRotationZ>0.05243747</CameraRotationZ>
+    <PlayerPositionX>11.88241</PlayerPositionX>
+    <PlayerPositionY>11.0786</PlayerPositionY>
+    <PlayerPositionZ>521.2816</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="34,00548">
+  <Data TimeStamp="34.00548">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1037,20 +1037,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>34,00548</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>34.00548</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>25</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>0,005563396</CameraRotationX>
-    <CameraRotationY>0,005151813</CameraRotationY>
-    <CameraRotationZ>0,06021437</CameraRotationZ>
-    <PlayerPositionX>12,61329</PlayerPositionX>
-    <PlayerPositionY>4,954704</PlayerPositionY>
-    <PlayerPositionZ>546,2002</PlayerPositionZ>
+    <CameraRotationX>0.005563396</CameraRotationX>
+    <CameraRotationY>0.005151813</CameraRotationY>
+    <CameraRotationZ>0.06021437</CameraRotationZ>
+    <PlayerPositionX>12.61329</PlayerPositionX>
+    <PlayerPositionY>4.954704</PlayerPositionY>
+    <PlayerPositionZ>546.2002</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="34,99988">
+  <Data TimeStamp="34.99988">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1067,20 +1067,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>34,99988</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>34.99988</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>25</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,00646894</CameraRotationX>
-    <CameraRotationY>-0,001292352</CameraRotationY>
-    <CameraRotationZ>0,05145646</CameraRotationZ>
-    <PlayerPositionX>-4,180234</PlayerPositionX>
-    <PlayerPositionY>6,9781</PlayerPositionY>
-    <PlayerPositionZ>571,0599</PlayerPositionZ>
+    <CameraRotationX>0.00646894</CameraRotationX>
+    <CameraRotationY>-0.001292352</CameraRotationY>
+    <CameraRotationZ>0.05145646</CameraRotationZ>
+    <PlayerPositionX>-4.180234</PlayerPositionX>
+    <PlayerPositionY>6.9781</PlayerPositionY>
+    <PlayerPositionZ>571.0599</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="36,00488">
+  <Data TimeStamp="36.00488">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1097,20 +1097,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>36,00488</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>36.00488</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>25</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,005135008</CameraRotationX>
-    <CameraRotationY>-0,00779161</CameraRotationY>
-    <CameraRotationZ>0,05515016</CameraRotationZ>
-    <PlayerPositionX>-8,38281</PlayerPositionX>
-    <PlayerPositionY>7,262273</PlayerPositionY>
-    <PlayerPositionZ>596,185</PlayerPositionZ>
+    <CameraRotationX>0.005135008</CameraRotationX>
+    <CameraRotationY>-0.00779161</CameraRotationY>
+    <CameraRotationZ>0.05515016</CameraRotationZ>
+    <PlayerPositionX>-8.38281</PlayerPositionX>
+    <PlayerPositionY>7.262273</PlayerPositionY>
+    <PlayerPositionZ>596.185</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="36,99783">
+  <Data TimeStamp="36.99783">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1127,20 +1127,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>36,99783</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>36.99783</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>30</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>0,003625073</CameraRotationX>
-    <CameraRotationY>-0,006146594</CameraRotationY>
-    <CameraRotationZ>0,05213403</CameraRotationZ>
-    <PlayerPositionX>-15,50732</PlayerPositionX>
-    <PlayerPositionY>7,275485</PlayerPositionY>
-    <PlayerPositionZ>622,7924</PlayerPositionZ>
+    <CameraRotationX>0.003625073</CameraRotationX>
+    <CameraRotationY>-0.006146594</CameraRotationY>
+    <CameraRotationZ>0.05213403</CameraRotationZ>
+    <PlayerPositionX>-15.50732</PlayerPositionX>
+    <PlayerPositionY>7.275485</PlayerPositionY>
+    <PlayerPositionZ>622.7924</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="38,00392">
+  <Data TimeStamp="38.00392">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1157,20 +1157,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>38,00392</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>38.00392</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>30</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,00328044</CameraRotationX>
-    <CameraRotationY>-0,006050649</CameraRotationY>
-    <CameraRotationZ>0,05186762</CameraRotationZ>
-    <PlayerPositionX>-4,242427</PlayerPositionX>
-    <PlayerPositionY>7,276124</PlayerPositionY>
-    <PlayerPositionZ>652,9753</PlayerPositionZ>
+    <CameraRotationX>0.00328044</CameraRotationX>
+    <CameraRotationY>-0.006050649</CameraRotationY>
+    <CameraRotationZ>0.05186762</CameraRotationZ>
+    <PlayerPositionX>-4.242427</PlayerPositionX>
+    <PlayerPositionY>7.276124</PlayerPositionY>
+    <PlayerPositionZ>652.9753</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="38,99781">
+  <Data TimeStamp="38.99781">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1187,20 +1187,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>38,99781</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>38.99781</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>30</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,001591616</CameraRotationX>
-    <CameraRotationY>-0,009674114</CameraRotationY>
-    <CameraRotationZ>0,05457699</CameraRotationZ>
-    <PlayerPositionX>4,170484</PlayerPositionX>
-    <PlayerPositionY>7,27615</PlayerPositionY>
-    <PlayerPositionZ>682,7919</PlayerPositionZ>
+    <CameraRotationX>0.001591616</CameraRotationX>
+    <CameraRotationY>-0.009674114</CameraRotationY>
+    <CameraRotationZ>0.05457699</CameraRotationZ>
+    <PlayerPositionX>4.170484</PlayerPositionX>
+    <PlayerPositionY>7.27615</PlayerPositionY>
+    <PlayerPositionZ>682.7919</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="40,00167">
+  <Data TimeStamp="40.00167">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1217,20 +1217,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>40,00167</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>40.00167</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>35</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>0,0009356024</CameraRotationX>
-    <CameraRotationY>-0,01009539</CameraRotationY>
-    <CameraRotationZ>0,05377153</CameraRotationZ>
-    <PlayerPositionX>7,228119</PlayerPositionX>
-    <PlayerPositionY>7,27615</PlayerPositionY>
-    <PlayerPositionZ>713,8472</PlayerPositionZ>
+    <CameraRotationX>0.0009356024</CameraRotationX>
+    <CameraRotationY>-0.01009539</CameraRotationY>
+    <CameraRotationZ>0.05377153</CameraRotationZ>
+    <PlayerPositionX>7.228119</PlayerPositionX>
+    <PlayerPositionY>7.27615</PlayerPositionY>
+    <PlayerPositionZ>713.8472</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="40,99739">
+  <Data TimeStamp="40.99739">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1247,20 +1247,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>40,99739</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>40.99739</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>35</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-6,412339E-05</CameraRotationX>
-    <CameraRotationY>-0,01706199</CameraRotationY>
-    <CameraRotationZ>0,05666165</CameraRotationZ>
-    <PlayerPositionX>0,7360495</PlayerPositionX>
-    <PlayerPositionY>7,27615</PlayerPositionY>
-    <PlayerPositionZ>748,6975</PlayerPositionZ>
+    <CameraRotationX>-6.412339E-05</CameraRotationX>
+    <CameraRotationY>-0.01706199</CameraRotationY>
+    <CameraRotationZ>0.05666165</CameraRotationZ>
+    <PlayerPositionX>0.7360495</PlayerPositionX>
+    <PlayerPositionY>7.27615</PlayerPositionY>
+    <PlayerPositionZ>748.6975</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="42,00272">
+  <Data TimeStamp="42.00272">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1277,20 +1277,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>42,00272</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>42.00272</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>35</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>0,0001698785</CameraRotationX>
-    <CameraRotationY>-0,01178937</CameraRotationY>
-    <CameraRotationZ>0,05025562</CameraRotationZ>
-    <PlayerPositionX>-10,19725</PlayerPositionX>
-    <PlayerPositionY>6,988568</PlayerPositionY>
-    <PlayerPositionZ>783,8838</PlayerPositionZ>
+    <CameraRotationX>0.0001698785</CameraRotationX>
+    <CameraRotationY>-0.01178937</CameraRotationY>
+    <CameraRotationZ>0.05025562</CameraRotationZ>
+    <PlayerPositionX>-10.19725</PlayerPositionX>
+    <PlayerPositionY>6.988568</PlayerPositionY>
+    <PlayerPositionZ>783.8838</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="42,99686">
+  <Data TimeStamp="42.99686">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1307,20 +1307,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>42,99686</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>42.99686</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>40</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,005795291</CameraRotationX>
-    <CameraRotationY>-0,01251836</CameraRotationY>
-    <CameraRotationZ>0,0495063</CameraRotationZ>
-    <PlayerPositionX>-13,45295</PlayerPositionX>
-    <PlayerPositionY>7,173852</PlayerPositionY>
-    <PlayerPositionZ>820,2969</PlayerPositionZ>
+    <CameraRotationX>-0.005795291</CameraRotationX>
+    <CameraRotationY>-0.01251836</CameraRotationY>
+    <CameraRotationZ>0.0495063</CameraRotationZ>
+    <PlayerPositionX>-13.45295</PlayerPositionX>
+    <PlayerPositionY>7.173852</PlayerPositionY>
+    <PlayerPositionZ>820.2969</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="44,00218">
+  <Data TimeStamp="44.00218">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1337,20 +1337,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>44,00218</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>44.00218</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>40</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,006713094</CameraRotationX>
-    <CameraRotationY>-0,009265914</CameraRotationY>
-    <CameraRotationZ>0,05308232</CameraRotationZ>
-    <PlayerPositionX>1,151886</PlayerPositionX>
-    <PlayerPositionY>7,23954</PlayerPositionY>
-    <PlayerPositionZ>860,5098</PlayerPositionZ>
+    <CameraRotationX>-0.006713094</CameraRotationX>
+    <CameraRotationY>-0.009265914</CameraRotationY>
+    <CameraRotationZ>0.05308232</CameraRotationZ>
+    <PlayerPositionX>1.151886</PlayerPositionX>
+    <PlayerPositionY>7.23954</PlayerPositionY>
+    <PlayerPositionZ>860.5098</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="44,9964">
+  <Data TimeStamp="44.9964">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1367,20 +1367,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>44,9964</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>44.9964</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>40</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,01170819</CameraRotationX>
-    <CameraRotationY>0,1204474</CameraRotationY>
-    <CameraRotationZ>0,04126592</CameraRotationZ>
-    <PlayerPositionX>11,89345</PlayerPositionX>
-    <PlayerPositionY>7,242592</PlayerPositionY>
-    <PlayerPositionZ>900,2779</PlayerPositionZ>
+    <CameraRotationX>-0.01170819</CameraRotationX>
+    <CameraRotationY>0.1204474</CameraRotationY>
+    <CameraRotationZ>0.04126592</CameraRotationZ>
+    <PlayerPositionX>11.89345</PlayerPositionX>
+    <PlayerPositionY>7.242592</PlayerPositionY>
+    <PlayerPositionZ>900.2779</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="46,00107">
+  <Data TimeStamp="46.00107">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1397,20 +1397,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>46,00107</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>46.00107</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>45</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,009446164</CameraRotationX>
-    <CameraRotationY>-0,02012819</CameraRotationY>
-    <CameraRotationZ>0,05638908</CameraRotationZ>
-    <PlayerPositionX>26,0005</PlayerPositionX>
-    <PlayerPositionY>7,247992</PlayerPositionY>
-    <PlayerPositionZ>943,979</PlayerPositionZ>
+    <CameraRotationX>-0.009446164</CameraRotationX>
+    <CameraRotationY>-0.02012819</CameraRotationY>
+    <CameraRotationZ>0.05638908</CameraRotationZ>
+    <PlayerPositionX>26.0005</PlayerPositionX>
+    <PlayerPositionY>7.247992</PlayerPositionY>
+    <PlayerPositionZ>943.979</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="47,00687">
+  <Data TimeStamp="47.00687">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1427,20 +1427,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>47,00687</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>47.00687</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>-30</PlayerAcceleration>
-    <CameraRotationX>-0,01325487</CameraRotationX>
-    <CameraRotationY>-0,04710558</CameraRotationY>
-    <CameraRotationZ>0,05634672</CameraRotationZ>
-    <PlayerPositionX>10,29916</PlayerPositionX>
-    <PlayerPositionY>7,023558</PlayerPositionY>
-    <PlayerPositionZ>971,8077</PlayerPositionZ>
+    <CameraRotationX>-0.01325487</CameraRotationX>
+    <CameraRotationY>-0.04710558</CameraRotationY>
+    <CameraRotationZ>0.05634672</CameraRotationZ>
+    <PlayerPositionX>10.29916</PlayerPositionX>
+    <PlayerPositionY>7.023558</PlayerPositionY>
+    <PlayerPositionZ>971.8077</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="48,00107">
+  <Data TimeStamp="48.00107">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1457,20 +1457,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>48,00107</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>48.00107</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,01799769</CameraRotationX>
-    <CameraRotationY>-0,02175993</CameraRotationY>
-    <CameraRotationZ>0,04814187</CameraRotationZ>
-    <PlayerPositionX>8,1643</PlayerPositionX>
-    <PlayerPositionY>6,830763</PlayerPositionY>
-    <PlayerPositionZ>986,7208</PlayerPositionZ>
+    <CameraRotationX>-0.01799769</CameraRotationX>
+    <CameraRotationY>-0.02175993</CameraRotationY>
+    <CameraRotationZ>0.04814187</CameraRotationZ>
+    <PlayerPositionX>8.1643</PlayerPositionX>
+    <PlayerPositionY>6.830763</PlayerPositionY>
+    <PlayerPositionZ>986.7208</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="49,00618">
+  <Data TimeStamp="49.00618">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1487,20 +1487,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>49,00618</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>49.00618</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,02309337</CameraRotationX>
-    <CameraRotationY>-0,008263359</CameraRotationY>
-    <CameraRotationZ>0,05307304</CameraRotationZ>
-    <PlayerPositionX>7,005679</PlayerPositionX>
-    <PlayerPositionY>6,821467</PlayerPositionY>
-    <PlayerPositionZ>1001,798</PlayerPositionZ>
+    <CameraRotationX>-0.02309337</CameraRotationX>
+    <CameraRotationY>-0.008263359</CameraRotationY>
+    <CameraRotationZ>0.05307304</CameraRotationZ>
+    <PlayerPositionX>7.005679</PlayerPositionX>
+    <PlayerPositionY>6.821467</PlayerPositionY>
+    <PlayerPositionZ>1001.798</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="49,99967">
+  <Data TimeStamp="49.99967">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1517,20 +1517,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>49,99967</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>49.99967</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,02566246</CameraRotationX>
-    <CameraRotationY>0,004632914</CameraRotationY>
-    <CameraRotationZ>0,06416404</CameraRotationZ>
-    <PlayerPositionX>6,295217</PlayerPositionX>
-    <PlayerPositionY>6,821034</PlayerPositionY>
-    <PlayerPositionZ>1016,7</PlayerPositionZ>
+    <CameraRotationX>-0.02566246</CameraRotationX>
+    <CameraRotationY>0.004632914</CameraRotationY>
+    <CameraRotationZ>0.06416404</CameraRotationZ>
+    <PlayerPositionX>6.295217</PlayerPositionX>
+    <PlayerPositionY>6.821034</PlayerPositionY>
+    <PlayerPositionZ>1016.7</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="51,00529">
+  <Data TimeStamp="51.00529">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1547,20 +1547,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>51,00529</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>51.00529</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,02803267</CameraRotationX>
-    <CameraRotationY>0,02010585</CameraRotationY>
-    <CameraRotationZ>0,05970357</CameraRotationZ>
-    <PlayerPositionX>4,505864</PlayerPositionX>
-    <PlayerPositionY>8,000306</PlayerPositionY>
-    <PlayerPositionZ>1031,785</PlayerPositionZ>
+    <CameraRotationX>-0.02803267</CameraRotationX>
+    <CameraRotationY>0.02010585</CameraRotationY>
+    <CameraRotationZ>0.05970357</CameraRotationZ>
+    <PlayerPositionX>4.505864</PlayerPositionX>
+    <PlayerPositionY>8.000306</PlayerPositionY>
+    <PlayerPositionZ>1031.785</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="51,99926">
+  <Data TimeStamp="51.99926">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1577,20 +1577,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>51,99926</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>51.99926</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03950824</CameraRotationX>
-    <CameraRotationY>0,02335034</CameraRotationY>
-    <CameraRotationZ>0,04993864</CameraRotationZ>
-    <PlayerPositionX>6,792982</PlayerPositionX>
-    <PlayerPositionY>8,380955</PlayerPositionY>
-    <PlayerPositionZ>1046,695</PlayerPositionZ>
+    <CameraRotationX>-0.03950824</CameraRotationX>
+    <CameraRotationY>0.02335034</CameraRotationY>
+    <CameraRotationZ>0.04993864</CameraRotationZ>
+    <PlayerPositionX>6.792982</PlayerPositionX>
+    <PlayerPositionY>8.380955</PlayerPositionY>
+    <PlayerPositionZ>1046.695</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="53,00528">
+  <Data TimeStamp="53.00528">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1607,20 +1607,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>53,00528</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>53.00528</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03524708</CameraRotationX>
-    <CameraRotationY>0,02435919</CameraRotationY>
-    <CameraRotationZ>0,04569181</CameraRotationZ>
-    <PlayerPositionX>8,288375</PlayerPositionX>
-    <PlayerPositionY>8,25167</PlayerPositionY>
-    <PlayerPositionZ>1061,785</PlayerPositionZ>
+    <CameraRotationX>-0.03524708</CameraRotationX>
+    <CameraRotationY>0.02435919</CameraRotationY>
+    <CameraRotationZ>0.04569181</CameraRotationZ>
+    <PlayerPositionX>8.288375</PlayerPositionX>
+    <PlayerPositionY>8.25167</PlayerPositionY>
+    <PlayerPositionZ>1061.785</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="53,99932">
+  <Data TimeStamp="53.99932">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1637,20 +1637,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>53,99932</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>53.99932</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03454875</CameraRotationX>
-    <CameraRotationY>0,01881111</CameraRotationY>
-    <CameraRotationZ>0,04509401</CameraRotationZ>
-    <PlayerPositionX>14,02873</PlayerPositionX>
-    <PlayerPositionY>7,389929</PlayerPositionY>
-    <PlayerPositionZ>1076,696</PlayerPositionZ>
+    <CameraRotationX>-0.03454875</CameraRotationX>
+    <CameraRotationY>0.01881111</CameraRotationY>
+    <CameraRotationZ>0.04509401</CameraRotationZ>
+    <PlayerPositionX>14.02873</PlayerPositionX>
+    <PlayerPositionY>7.389929</PlayerPositionY>
+    <PlayerPositionZ>1076.696</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="55,0038">
+  <Data TimeStamp="55.0038">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1667,20 +1667,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>55,0038</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>55.0038</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03209981</CameraRotationX>
-    <CameraRotationY>-1,388177E-06</CameraRotationY>
-    <CameraRotationZ>0,04878905</CameraRotationZ>
-    <PlayerPositionX>17,02054</PlayerPositionX>
-    <PlayerPositionY>7,323154</PlayerPositionY>
-    <PlayerPositionZ>1091,763</PlayerPositionZ>
+    <CameraRotationX>-0.03209981</CameraRotationX>
+    <CameraRotationY>-1.388177E-06</CameraRotationY>
+    <CameraRotationZ>0.04878905</CameraRotationZ>
+    <PlayerPositionX>17.02054</PlayerPositionX>
+    <PlayerPositionY>7.323154</PlayerPositionY>
+    <PlayerPositionZ>1091.763</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="55,99761">
+  <Data TimeStamp="55.99761">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1697,20 +1697,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>55,99761</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>55.99761</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,03320151</CameraRotationX>
-    <CameraRotationY>-0,001629363</CameraRotationY>
-    <CameraRotationZ>0,04598683</CameraRotationZ>
-    <PlayerPositionX>15,41378</PlayerPositionX>
-    <PlayerPositionY>7,320046</PlayerPositionY>
-    <PlayerPositionZ>1108,177</PlayerPositionZ>
+    <CameraRotationX>-0.03320151</CameraRotationX>
+    <CameraRotationY>-0.001629363</CameraRotationY>
+    <CameraRotationZ>0.04598683</CameraRotationZ>
+    <PlayerPositionX>15.41378</PlayerPositionX>
+    <PlayerPositionY>7.320046</PlayerPositionY>
+    <PlayerPositionZ>1108.177</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="57,00375">
+  <Data TimeStamp="57.00375">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1727,20 +1727,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>57,00375</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>57.00375</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03471238</CameraRotationX>
-    <CameraRotationY>-0,008849645</CameraRotationY>
-    <CameraRotationZ>0,04374723</CameraRotationZ>
-    <PlayerPositionX>12,45954</PlayerPositionX>
-    <PlayerPositionY>7,319895</PlayerPositionY>
-    <PlayerPositionZ>1128,299</PlayerPositionZ>
+    <CameraRotationX>-0.03471238</CameraRotationX>
+    <CameraRotationY>-0.008849645</CameraRotationY>
+    <CameraRotationZ>0.04374723</CameraRotationZ>
+    <PlayerPositionX>12.45954</PlayerPositionX>
+    <PlayerPositionY>7.319895</PlayerPositionY>
+    <PlayerPositionZ>1128.299</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="57,99633">
+  <Data TimeStamp="57.99633">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1757,20 +1757,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>57,99633</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>57.99633</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,0339799</CameraRotationX>
-    <CameraRotationY>-0,00954975</CameraRotationY>
-    <CameraRotationZ>0,04200682</CameraRotationZ>
-    <PlayerPositionX>9,793484</PlayerPositionX>
-    <PlayerPositionY>7,319894</PlayerPositionY>
-    <PlayerPositionZ>1148,15</PlayerPositionZ>
+    <CameraRotationX>-0.0339799</CameraRotationX>
+    <CameraRotationY>-0.00954975</CameraRotationY>
+    <CameraRotationZ>0.04200682</CameraRotationZ>
+    <PlayerPositionX>9.793484</PlayerPositionX>
+    <PlayerPositionY>7.319894</PlayerPositionY>
+    <PlayerPositionZ>1148.15</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="59,00313">
+  <Data TimeStamp="59.00313">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1787,20 +1787,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>59,00313</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>59.00313</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03576324</CameraRotationX>
-    <CameraRotationY>-0,003406417</CameraRotationY>
-    <CameraRotationZ>0,03879695</CameraRotationZ>
-    <PlayerPositionX>6,008339</PlayerPositionX>
-    <PlayerPositionY>7,319894</PlayerPositionY>
-    <PlayerPositionZ>1168,286</PlayerPositionZ>
+    <CameraRotationX>-0.03576324</CameraRotationX>
+    <CameraRotationY>-0.003406417</CameraRotationY>
+    <CameraRotationZ>0.03879695</CameraRotationZ>
+    <PlayerPositionX>6.008339</PlayerPositionX>
+    <PlayerPositionY>7.319894</PlayerPositionY>
+    <PlayerPositionZ>1168.286</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="59,9973">
+  <Data TimeStamp="59.9973">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1817,20 +1817,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>59,9973</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>59.9973</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>25</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,03406366</CameraRotationX>
-    <CameraRotationY>-0,007565013</CameraRotationY>
-    <CameraRotationZ>0,03936762</CameraRotationZ>
-    <PlayerPositionX>8,829772</PlayerPositionX>
-    <PlayerPositionY>7,319894</PlayerPositionY>
-    <PlayerPositionZ>1188,449</PlayerPositionZ>
+    <CameraRotationX>-0.03406366</CameraRotationX>
+    <CameraRotationY>-0.007565013</CameraRotationY>
+    <CameraRotationZ>0.03936762</CameraRotationZ>
+    <PlayerPositionX>8.829772</PlayerPositionX>
+    <PlayerPositionY>7.319894</PlayerPositionY>
+    <PlayerPositionZ>1188.449</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="61,00235">
+  <Data TimeStamp="61.00235">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1847,20 +1847,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>61,00235</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>61.00235</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>25</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03425417</CameraRotationX>
-    <CameraRotationY>-0,02290879</CameraRotationY>
-    <CameraRotationZ>0,04103899</CameraRotationZ>
-    <PlayerPositionX>0,7837762</PlayerPositionX>
-    <PlayerPositionY>7,319894</PlayerPositionY>
-    <PlayerPositionZ>1213,575</PlayerPositionZ>
+    <CameraRotationX>-0.03425417</CameraRotationX>
+    <CameraRotationY>-0.02290879</CameraRotationY>
+    <CameraRotationZ>0.04103899</CameraRotationZ>
+    <PlayerPositionX>0.7837762</PlayerPositionX>
+    <PlayerPositionY>7.319894</PlayerPositionY>
+    <PlayerPositionZ>1213.575</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="61,99645">
+  <Data TimeStamp="61.99645">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1877,20 +1877,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>61,99645</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>61.99645</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>25</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,0311583</CameraRotationX>
-    <CameraRotationY>-0,03544751</CameraRotationY>
-    <CameraRotationZ>0,04433874</CameraRotationZ>
-    <PlayerPositionX>-5,39911</PlayerPositionX>
-    <PlayerPositionY>7,319894</PlayerPositionY>
-    <PlayerPositionZ>1238,428</PlayerPositionZ>
+    <CameraRotationX>-0.0311583</CameraRotationX>
+    <CameraRotationY>-0.03544751</CameraRotationY>
+    <CameraRotationZ>0.04433874</CameraRotationZ>
+    <PlayerPositionX>-5.39911</PlayerPositionX>
+    <PlayerPositionY>7.319894</PlayerPositionY>
+    <PlayerPositionZ>1238.428</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="63,00205">
+  <Data TimeStamp="63.00205">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1907,20 +1907,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>63,00205</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>63.00205</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>25</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,02946286</CameraRotationX>
-    <CameraRotationY>-0,03454243</CameraRotationY>
-    <CameraRotationZ>0,04273288</CameraRotationZ>
-    <PlayerPositionX>-13,44514</PlayerPositionX>
-    <PlayerPositionY>8,351653</PlayerPositionY>
-    <PlayerPositionZ>1263,568</PlayerPositionZ>
+    <CameraRotationX>-0.02946286</CameraRotationX>
+    <CameraRotationY>-0.03454243</CameraRotationY>
+    <CameraRotationZ>0.04273288</CameraRotationZ>
+    <PlayerPositionX>-13.44514</PlayerPositionX>
+    <PlayerPositionY>8.351653</PlayerPositionY>
+    <PlayerPositionZ>1263.568</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="64,00645">
+  <Data TimeStamp="64.00645">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1937,20 +1937,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>64,00645</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>64.00645</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>30</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,02827214</CameraRotationX>
-    <CameraRotationY>-0,02924799</CameraRotationY>
-    <CameraRotationZ>0,03938796</CameraRotationZ>
-    <PlayerPositionX>-16,31431</PlayerPositionX>
-    <PlayerPositionY>8,618158</PlayerPositionY>
-    <PlayerPositionZ>1290,967</PlayerPositionZ>
+    <CameraRotationX>-0.02827214</CameraRotationX>
+    <CameraRotationY>-0.02924799</CameraRotationY>
+    <CameraRotationZ>0.03938796</CameraRotationZ>
+    <PlayerPositionX>-16.31431</PlayerPositionX>
+    <PlayerPositionY>8.618158</PlayerPositionY>
+    <PlayerPositionZ>1290.967</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="65,00101">
+  <Data TimeStamp="65.00101">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1967,20 +1967,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>65,00101</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>65.00101</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>30</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,02538452</CameraRotationX>
-    <CameraRotationY>0,08254687</CameraRotationY>
-    <CameraRotationZ>0,02784034</CameraRotationZ>
-    <PlayerPositionX>0,2392635</PlayerPositionX>
-    <PlayerPositionY>8,223898</PlayerPositionY>
-    <PlayerPositionZ>1320,804</PlayerPositionZ>
+    <CameraRotationX>-0.02538452</CameraRotationX>
+    <CameraRotationY>0.08254687</CameraRotationY>
+    <CameraRotationZ>0.02784034</CameraRotationZ>
+    <PlayerPositionX>0.2392635</PlayerPositionX>
+    <PlayerPositionY>8.223898</PlayerPositionY>
+    <PlayerPositionZ>1320.804</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="66,0064">
+  <Data TimeStamp="66.0064">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -1997,20 +1997,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>66,0064</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>66.0064</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>30</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,01139434</CameraRotationX>
-    <CameraRotationY>0,0676941</CameraRotationY>
-    <CameraRotationZ>0,04161776</CameraRotationZ>
-    <PlayerPositionX>13,43694</PlayerPositionX>
-    <PlayerPositionY>8,132817</PlayerPositionY>
-    <PlayerPositionZ>1350,964</PlayerPositionZ>
+    <CameraRotationX>-0.01139434</CameraRotationX>
+    <CameraRotationY>0.0676941</CameraRotationY>
+    <CameraRotationZ>0.04161776</CameraRotationZ>
+    <PlayerPositionX>13.43694</PlayerPositionX>
+    <PlayerPositionY>8.132817</PlayerPositionY>
+    <PlayerPositionZ>1350.964</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="67,00036">
+  <Data TimeStamp="67.00036">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2027,20 +2027,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>67,00036</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>67.00036</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>35</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,01254177</CameraRotationX>
-    <CameraRotationY>0,03861055</CameraRotationY>
-    <CameraRotationZ>0,04076869</CameraRotationZ>
-    <PlayerPositionX>17,07932</PlayerPositionX>
-    <PlayerPositionY>8,128584</PlayerPositionY>
-    <PlayerPositionZ>1382,233</PlayerPositionZ>
+    <CameraRotationX>-0.01254177</CameraRotationX>
+    <CameraRotationY>0.03861055</CameraRotationY>
+    <CameraRotationZ>0.04076869</CameraRotationZ>
+    <PlayerPositionX>17.07932</PlayerPositionX>
+    <PlayerPositionY>8.128584</PlayerPositionY>
+    <PlayerPositionZ>1382.233</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="68,00561">
+  <Data TimeStamp="68.00561">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2057,20 +2057,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>68,00561</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>68.00561</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>35</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,01511418</CameraRotationX>
-    <CameraRotationY>-0,08102199</CameraRotationY>
-    <CameraRotationZ>0,04741635</CameraRotationZ>
-    <PlayerPositionX>5,211282</PlayerPositionX>
-    <PlayerPositionY>7,96423</PlayerPositionY>
-    <PlayerPositionZ>1417,417</PlayerPositionZ>
+    <CameraRotationX>-0.01511418</CameraRotationX>
+    <CameraRotationY>-0.08102199</CameraRotationY>
+    <CameraRotationZ>0.04741635</CameraRotationZ>
+    <PlayerPositionX>5.211282</PlayerPositionX>
+    <PlayerPositionY>7.96423</PlayerPositionY>
+    <PlayerPositionZ>1417.417</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="69,00017">
+  <Data TimeStamp="69.00017">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2087,20 +2087,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>69,00017</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>69.00017</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>35</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,01497792</CameraRotationX>
-    <CameraRotationY>-0,0560702</CameraRotationY>
-    <CameraRotationZ>0,03969999</CameraRotationZ>
-    <PlayerPositionX>-11,49881</PlayerPositionX>
-    <PlayerPositionY>7,812719</PlayerPositionY>
-    <PlayerPositionZ>1452,227</PlayerPositionZ>
+    <CameraRotationX>-0.01497792</CameraRotationX>
+    <CameraRotationY>-0.0560702</CameraRotationY>
+    <CameraRotationZ>0.03969999</CameraRotationZ>
+    <PlayerPositionX>-11.49881</PlayerPositionX>
+    <PlayerPositionY>7.812719</PlayerPositionY>
+    <PlayerPositionZ>1452.227</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="70,00492">
+  <Data TimeStamp="70.00492">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2117,20 +2117,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>70,00492</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>70.00492</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>40</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,017111</CameraRotationX>
-    <CameraRotationY>-0,04582923</CameraRotationY>
-    <CameraRotationZ>0,03865452</CameraRotationZ>
-    <PlayerPositionX>-15,33108</PlayerPositionX>
-    <PlayerPositionY>7,808834</PlayerPositionY>
-    <PlayerPositionZ>1489,571</PlayerPositionZ>
+    <CameraRotationX>-0.017111</CameraRotationX>
+    <CameraRotationY>-0.04582923</CameraRotationY>
+    <CameraRotationZ>0.03865452</CameraRotationZ>
+    <PlayerPositionX>-15.33108</PlayerPositionX>
+    <PlayerPositionY>7.808834</PlayerPositionY>
+    <PlayerPositionZ>1489.571</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="70,99934">
+  <Data TimeStamp="70.99934">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2147,20 +2147,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>70,99934</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>70.99934</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>40</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,02085181</CameraRotationX>
-    <CameraRotationY>0,03885679</CameraRotationY>
-    <CameraRotationZ>0,03284262</CameraRotationZ>
-    <PlayerPositionX>-4,227819</PlayerPositionX>
-    <PlayerPositionY>7,808724</PlayerPositionY>
-    <PlayerPositionZ>1529,348</PlayerPositionZ>
+    <CameraRotationX>-0.02085181</CameraRotationX>
+    <CameraRotationY>0.03885679</CameraRotationY>
+    <CameraRotationZ>0.03284262</CameraRotationZ>
+    <PlayerPositionX>-4.227819</PlayerPositionX>
+    <PlayerPositionY>7.808724</PlayerPositionY>
+    <PlayerPositionZ>1529.348</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="72,00422">
+  <Data TimeStamp="72.00422">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2177,20 +2177,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>72,00422</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>72.00422</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>40</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,02056232</CameraRotationX>
-    <CameraRotationY>0,02022314</CameraRotationY>
-    <CameraRotationZ>0,04580333</CameraRotationZ>
-    <PlayerPositionX>6,514215</PlayerPositionX>
-    <PlayerPositionY>7,808724</PlayerPositionY>
-    <PlayerPositionZ>1569,543</PlayerPositionZ>
+    <CameraRotationX>-0.02056232</CameraRotationX>
+    <CameraRotationY>0.02022314</CameraRotationY>
+    <CameraRotationZ>0.04580333</CameraRotationZ>
+    <PlayerPositionX>6.514215</PlayerPositionX>
+    <PlayerPositionY>7.808724</PlayerPositionY>
+    <PlayerPositionZ>1569.543</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="72,99841">
+  <Data TimeStamp="72.99841">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2207,20 +2207,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>72,99841</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>72.99841</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>45</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,02314524</CameraRotationX>
-    <CameraRotationY>-0,01615981</CameraRotationY>
-    <CameraRotationZ>0,04817595</CameraRotationZ>
-    <PlayerPositionX>0,7584385</PlayerPositionX>
-    <PlayerPositionY>7,808724</PlayerPositionY>
-    <PlayerPositionZ>1613,33</PlayerPositionZ>
+    <CameraRotationX>-0.02314524</CameraRotationX>
+    <CameraRotationY>-0.01615981</CameraRotationY>
+    <CameraRotationZ>0.04817595</CameraRotationZ>
+    <PlayerPositionX>0.7584385</PlayerPositionX>
+    <PlayerPositionY>7.808724</PlayerPositionY>
+    <PlayerPositionZ>1613.33</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="74,00381">
+  <Data TimeStamp="74.00381">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2237,20 +2237,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>74,00381</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>74.00381</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>45</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,02568875</CameraRotationX>
-    <CameraRotationY>-0,02606506</CameraRotationY>
-    <CameraRotationZ>0,04462993</CameraRotationZ>
-    <PlayerPositionX>-4,322549</PlayerPositionX>
-    <PlayerPositionY>7,87029</PlayerPositionY>
-    <PlayerPositionZ>1658,574</PlayerPositionZ>
+    <CameraRotationX>-0.02568875</CameraRotationX>
+    <CameraRotationY>-0.02606506</CameraRotationY>
+    <CameraRotationZ>0.04462993</CameraRotationZ>
+    <PlayerPositionX>-4.322549</PlayerPositionX>
+    <PlayerPositionY>7.87029</PlayerPositionY>
+    <PlayerPositionZ>1658.574</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="74,99696">
+  <Data TimeStamp="74.99696">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2267,20 +2267,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>74,99696</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>74.99696</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>50</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,02247129</CameraRotationX>
-    <CameraRotationY>-0,02243336</CameraRotationY>
-    <CameraRotationZ>0,04104865</CameraRotationZ>
-    <PlayerPositionX>-10,01991</PlayerPositionX>
-    <PlayerPositionY>8,935072</PlayerPositionY>
-    <PlayerPositionZ>1705,052</PlayerPositionZ>
+    <CameraRotationX>-0.02247129</CameraRotationX>
+    <CameraRotationY>-0.02243336</CameraRotationY>
+    <CameraRotationZ>0.04104865</CameraRotationZ>
+    <PlayerPositionX>-10.01991</PlayerPositionX>
+    <PlayerPositionY>8.935072</PlayerPositionY>
+    <PlayerPositionZ>1705.052</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="76,00255">
+  <Data TimeStamp="76.00255">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2297,20 +2297,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>76,00255</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>76.00255</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>50</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,02243527</CameraRotationX>
-    <CameraRotationY>-0,01672566</CameraRotationY>
-    <CameraRotationZ>0,04060597</CameraRotationZ>
-    <PlayerPositionX>6,797799</PlayerPositionX>
-    <PlayerPositionY>8,116776</PlayerPositionY>
-    <PlayerPositionZ>1755,331</PlayerPositionZ>
+    <CameraRotationX>-0.02243527</CameraRotationX>
+    <CameraRotationY>-0.01672566</CameraRotationY>
+    <CameraRotationZ>0.04060597</CameraRotationZ>
+    <PlayerPositionX>6.797799</PlayerPositionX>
+    <PlayerPositionY>8.116776</PlayerPositionY>
+    <PlayerPositionZ>1755.331</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="76,99707">
+  <Data TimeStamp="76.99707">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2327,20 +2327,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>76,99707</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>76.99707</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>55</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,02302048</CameraRotationX>
-    <CameraRotationY>-0,02342753</CameraRotationY>
-    <CameraRotationZ>0,04755532</CameraRotationZ>
-    <PlayerPositionX>19,04597</PlayerPositionX>
-    <PlayerPositionY>7,719088</PlayerPositionY>
-    <PlayerPositionZ>1805,336</PlayerPositionZ>
+    <CameraRotationX>-0.02302048</CameraRotationX>
+    <CameraRotationY>-0.02342753</CameraRotationY>
+    <CameraRotationZ>0.04755532</CameraRotationZ>
+    <PlayerPositionX>19.04597</PlayerPositionX>
+    <PlayerPositionY>7.719088</PlayerPositionY>
+    <PlayerPositionZ>1805.336</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="78,00292">
+  <Data TimeStamp="78.00292">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2357,20 +2357,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>78,00292</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>78.00292</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>55</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03070805</CameraRotationX>
-    <CameraRotationY>-0,03574112</CameraRotationY>
-    <CameraRotationZ>0,05573224</CameraRotationZ>
-    <PlayerPositionX>6,019467</PlayerPositionX>
-    <PlayerPositionY>7,077023</PlayerPositionY>
-    <PlayerPositionZ>1860,658</PlayerPositionZ>
+    <CameraRotationX>-0.03070805</CameraRotationX>
+    <CameraRotationY>-0.03574112</CameraRotationY>
+    <CameraRotationZ>0.05573224</CameraRotationZ>
+    <PlayerPositionX>6.019467</PlayerPositionX>
+    <PlayerPositionY>7.077023</PlayerPositionY>
+    <PlayerPositionZ>1860.658</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="78,99622">
+  <Data TimeStamp="78.99622">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2387,20 +2387,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>78,99622</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>78.99622</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>55</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,04661873</CameraRotationX>
-    <CameraRotationY>-0,04818101</CameraRotationY>
-    <CameraRotationZ>0,05667375</CameraRotationZ>
-    <PlayerPositionX>-13,55781</PlayerPositionX>
-    <PlayerPositionY>4,650488</PlayerPositionY>
-    <PlayerPositionZ>1915,29</PlayerPositionZ>
+    <CameraRotationX>-0.04661873</CameraRotationX>
+    <CameraRotationY>-0.04818101</CameraRotationY>
+    <CameraRotationZ>0.05667375</CameraRotationZ>
+    <PlayerPositionX>-13.55781</PlayerPositionX>
+    <PlayerPositionY>4.650488</PlayerPositionY>
+    <PlayerPositionZ>1915.29</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="80,00146">
+  <Data TimeStamp="80.00146">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2417,20 +2417,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>80,00146</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>80.00146</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>-40</PlayerAcceleration>
-    <CameraRotationX>-0,05317042</CameraRotationX>
-    <CameraRotationY>-0,03185003</CameraRotationY>
-    <CameraRotationZ>0,03983878</CameraRotationZ>
-    <PlayerPositionX>-16,72417</PlayerPositionX>
-    <PlayerPositionY>5,168257</PlayerPositionY>
-    <PlayerPositionZ>1935,272</PlayerPositionZ>
+    <CameraRotationX>-0.05317042</CameraRotationX>
+    <CameraRotationY>-0.03185003</CameraRotationY>
+    <CameraRotationZ>0.03983878</CameraRotationZ>
+    <PlayerPositionX>-16.72417</PlayerPositionX>
+    <PlayerPositionY>5.168257</PlayerPositionY>
+    <PlayerPositionZ>1935.272</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="81,00677">
+  <Data TimeStamp="81.00677">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2447,20 +2447,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>81,00677</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>81.00677</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,05166681</CameraRotationX>
-    <CameraRotationY>-0,03070109</CameraRotationY>
-    <CameraRotationZ>0,04751064</CameraRotationZ>
-    <PlayerPositionX>-10,85953</PlayerPositionX>
-    <PlayerPositionY>8,45889</PlayerPositionY>
-    <PlayerPositionZ>1950,351</PlayerPositionZ>
+    <CameraRotationX>-0.05166681</CameraRotationX>
+    <CameraRotationY>-0.03070109</CameraRotationY>
+    <CameraRotationZ>0.04751064</CameraRotationZ>
+    <PlayerPositionX>-10.85953</PlayerPositionX>
+    <PlayerPositionY>8.45889</PlayerPositionY>
+    <PlayerPositionZ>1950.351</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="82,00153">
+  <Data TimeStamp="82.00153">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2477,20 +2477,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>82,00153</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>82.00153</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,04449118</CameraRotationX>
-    <CameraRotationY>-0,02284218</CameraRotationY>
-    <CameraRotationZ>0,04231898</CameraRotationZ>
-    <PlayerPositionX>-9,437607</PlayerPositionX>
-    <PlayerPositionY>9,188954</PlayerPositionY>
-    <PlayerPositionZ>1965,273</PlayerPositionZ>
+    <CameraRotationX>-0.04449118</CameraRotationX>
+    <CameraRotationY>-0.02284218</CameraRotationY>
+    <CameraRotationZ>0.04231898</CameraRotationZ>
+    <PlayerPositionX>-9.437607</PlayerPositionX>
+    <PlayerPositionY>9.188954</PlayerPositionY>
+    <PlayerPositionZ>1965.273</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>0</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="83,00693">
+  <Data TimeStamp="83.00693">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2507,20 +2507,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>83,00693</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>83.00693</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03976168</CameraRotationX>
-    <CameraRotationY>-0,02287464</CameraRotationY>
-    <CameraRotationZ>0,04658696</CameraRotationZ>
-    <PlayerPositionX>-7,825308</PlayerPositionX>
-    <PlayerPositionY>6,88145</PlayerPositionY>
-    <PlayerPositionZ>1980,354</PlayerPositionZ>
+    <CameraRotationX>-0.03976168</CameraRotationX>
+    <CameraRotationY>-0.02287464</CameraRotationY>
+    <CameraRotationZ>0.04658696</CameraRotationZ>
+    <PlayerPositionX>-7.825308</PlayerPositionX>
+    <PlayerPositionY>6.88145</PlayerPositionY>
+    <PlayerPositionZ>1980.354</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="84,00038">
+  <Data TimeStamp="84.00038">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2537,20 +2537,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>84,00038</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>84.00038</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03689598</CameraRotationX>
-    <CameraRotationY>-0,01689339</CameraRotationY>
-    <CameraRotationZ>0,03651664</CameraRotationZ>
-    <PlayerPositionX>-8,88709</PlayerPositionX>
-    <PlayerPositionY>6,381904</PlayerPositionY>
-    <PlayerPositionZ>1995,256</PlayerPositionZ>
+    <CameraRotationX>-0.03689598</CameraRotationX>
+    <CameraRotationY>-0.01689339</CameraRotationY>
+    <CameraRotationZ>0.03651664</CameraRotationZ>
+    <PlayerPositionX>-8.88709</PlayerPositionX>
+    <PlayerPositionY>6.381904</PlayerPositionY>
+    <PlayerPositionZ>1995.256</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="85,00544">
+  <Data TimeStamp="85.00544">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2567,20 +2567,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>85,00544</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>85.00544</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03756909</CameraRotationX>
-    <CameraRotationY>-0,02386042</CameraRotationY>
-    <CameraRotationZ>0,04573781</CameraRotationZ>
-    <PlayerPositionX>-7,227951</PlayerPositionX>
-    <PlayerPositionY>6,507536</PlayerPositionY>
-    <PlayerPositionZ>2010,332</PlayerPositionZ>
+    <CameraRotationX>-0.03756909</CameraRotationX>
+    <CameraRotationY>-0.02386042</CameraRotationY>
+    <CameraRotationZ>0.04573781</CameraRotationZ>
+    <PlayerPositionX>-7.227951</PlayerPositionX>
+    <PlayerPositionY>6.507536</PlayerPositionY>
+    <PlayerPositionZ>2010.332</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="85,99946">
+  <Data TimeStamp="85.99946">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2597,20 +2597,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>85,99946</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>85.99946</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03708605</CameraRotationX>
-    <CameraRotationY>-0,009564384</CameraRotationY>
-    <CameraRotationZ>0,04443805</CameraRotationZ>
-    <PlayerPositionX>-1,918049</PlayerPositionX>
-    <PlayerPositionY>7,005387</PlayerPositionY>
-    <PlayerPositionZ>2025,242</PlayerPositionZ>
+    <CameraRotationX>-0.03708605</CameraRotationX>
+    <CameraRotationY>-0.009564384</CameraRotationY>
+    <CameraRotationZ>0.04443805</CameraRotationZ>
+    <PlayerPositionX>-1.918049</PlayerPositionX>
+    <PlayerPositionY>7.005387</PlayerPositionY>
+    <PlayerPositionZ>2025.242</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="87,00523">
+  <Data TimeStamp="87.00523">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2627,20 +2627,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>87,00523</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>87.00523</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,02457885</CameraRotationX>
-    <CameraRotationY>0,08856564</CameraRotationY>
-    <CameraRotationZ>0,03608691</CameraRotationZ>
-    <PlayerPositionX>2,129017</PlayerPositionX>
-    <PlayerPositionY>8,73595</PlayerPositionY>
-    <PlayerPositionZ>2040,329</PlayerPositionZ>
+    <CameraRotationX>-0.02457885</CameraRotationX>
+    <CameraRotationY>0.08856564</CameraRotationY>
+    <CameraRotationZ>0.03608691</CameraRotationZ>
+    <PlayerPositionX>2.129017</PlayerPositionX>
+    <PlayerPositionY>8.73595</PlayerPositionY>
+    <PlayerPositionZ>2040.329</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="87,9986">
+  <Data TimeStamp="87.9986">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2657,20 +2657,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>87,9986</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>87.9986</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,01379129</CameraRotationX>
-    <CameraRotationY>0,04224654</CameraRotationY>
-    <CameraRotationZ>0,04575104</CameraRotationZ>
-    <PlayerPositionX>8,110752</PlayerPositionX>
-    <PlayerPositionY>8,638177</PlayerPositionY>
-    <PlayerPositionZ>2055,229</PlayerPositionZ>
+    <CameraRotationX>-0.01379129</CameraRotationX>
+    <CameraRotationY>0.04224654</CameraRotationY>
+    <CameraRotationZ>0.04575104</CameraRotationZ>
+    <PlayerPositionX>8.110752</PlayerPositionX>
+    <PlayerPositionY>8.638177</PlayerPositionY>
+    <PlayerPositionZ>2055.229</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="89,00423">
+  <Data TimeStamp="89.00423">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2687,20 +2687,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>89,00423</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>89.00423</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>15</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,02544708</CameraRotationX>
-    <CameraRotationY>0,03061183</CameraRotationY>
-    <CameraRotationZ>0,04486334</CameraRotationZ>
-    <PlayerPositionX>7,13153</PlayerPositionX>
-    <PlayerPositionY>6,341698</PlayerPositionY>
-    <PlayerPositionZ>2070,315</PlayerPositionZ>
+    <CameraRotationX>-0.02544708</CameraRotationX>
+    <CameraRotationY>0.03061183</CameraRotationY>
+    <CameraRotationZ>0.04486334</CameraRotationZ>
+    <PlayerPositionX>7.13153</PlayerPositionX>
+    <PlayerPositionY>6.341698</PlayerPositionY>
+    <PlayerPositionZ>2070.315</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="89,99874">
+  <Data TimeStamp="89.99874">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2717,20 +2717,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>89,99874</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>89.99874</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,03302794</CameraRotationX>
-    <CameraRotationY>0,03793403</CameraRotationY>
-    <CameraRotationZ>0,0437132</CameraRotationZ>
-    <PlayerPositionX>10,33378</PlayerPositionX>
-    <PlayerPositionY>7,164319</PlayerPositionY>
-    <PlayerPositionZ>2086,294</PlayerPositionZ>
+    <CameraRotationX>-0.03302794</CameraRotationX>
+    <CameraRotationY>0.03793403</CameraRotationY>
+    <CameraRotationZ>0.0437132</CameraRotationZ>
+    <PlayerPositionX>10.33378</PlayerPositionX>
+    <PlayerPositionY>7.164319</PlayerPositionY>
+    <PlayerPositionZ>2086.294</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="91,00346">
+  <Data TimeStamp="91.00346">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2747,20 +2747,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>91,00346</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>91.00346</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,0341674</CameraRotationX>
-    <CameraRotationY>0,02074075</CameraRotationY>
-    <CameraRotationZ>0,04514197</CameraRotationZ>
-    <PlayerPositionX>1,702085</PlayerPositionX>
-    <PlayerPositionY>7,443594</PlayerPositionY>
-    <PlayerPositionZ>2106,388</PlayerPositionZ>
+    <CameraRotationX>-0.0341674</CameraRotationX>
+    <CameraRotationY>0.02074075</CameraRotationY>
+    <CameraRotationZ>0.04514197</CameraRotationZ>
+    <PlayerPositionX>1.702085</PlayerPositionX>
+    <PlayerPositionY>7.443594</PlayerPositionY>
+    <PlayerPositionZ>2106.388</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="91,99769">
+  <Data TimeStamp="91.99769">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2777,20 +2777,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>91,99769</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>91.99769</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,04045946</CameraRotationX>
-    <CameraRotationY>-0,08792407</CameraRotationY>
-    <CameraRotationZ>0,04268728</CameraRotationZ>
-    <PlayerPositionX>-5,496387</PlayerPositionX>
-    <PlayerPositionY>7,642735</PlayerPositionY>
-    <PlayerPositionZ>2126,274</PlayerPositionZ>
+    <CameraRotationX>-0.04045946</CameraRotationX>
+    <CameraRotationY>-0.08792407</CameraRotationY>
+    <CameraRotationZ>0.04268728</CameraRotationZ>
+    <PlayerPositionX>-5.496387</PlayerPositionX>
+    <PlayerPositionY>7.642735</PlayerPositionY>
+    <PlayerPositionZ>2126.274</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="93,00288">
+  <Data TimeStamp="93.00288">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2807,20 +2807,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>93,00288</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>93.00288</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03427083</CameraRotationX>
-    <CameraRotationY>-0,06133948</CameraRotationY>
-    <CameraRotationZ>0,03678848</CameraRotationZ>
-    <PlayerPositionX>-13,01967</PlayerPositionX>
-    <PlayerPositionY>8,854308</PlayerPositionY>
-    <PlayerPositionZ>2146,378</PlayerPositionZ>
+    <CameraRotationX>-0.03427083</CameraRotationX>
+    <CameraRotationY>-0.06133948</CameraRotationY>
+    <CameraRotationZ>0.03678848</CameraRotationZ>
+    <PlayerPositionX>-13.01967</PlayerPositionX>
+    <PlayerPositionY>8.854308</PlayerPositionY>
+    <PlayerPositionZ>2146.378</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="93,99731">
+  <Data TimeStamp="93.99731">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2837,20 +2837,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>foreground</RegionOfInterest>
-    <TimeStamp>93,99731</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>93.99731</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>20</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03240641</CameraRotationX>
-    <CameraRotationY>-0,05682603</CameraRotationY>
-    <CameraRotationZ>0,03877872</CameraRotationZ>
-    <PlayerPositionX>-14,75227</PlayerPositionX>
-    <PlayerPositionY>7,368999</PlayerPositionY>
-    <PlayerPositionZ>2166,267</PlayerPositionZ>
+    <CameraRotationX>-0.03240641</CameraRotationX>
+    <CameraRotationY>-0.05682603</CameraRotationY>
+    <CameraRotationZ>0.03877872</CameraRotationZ>
+    <PlayerPositionX>-14.75227</PlayerPositionX>
+    <PlayerPositionY>7.368999</PlayerPositionY>
+    <PlayerPositionZ>2166.267</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="95,00238">
+  <Data TimeStamp="95.00238">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2867,20 +2867,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>95,00238</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>95.00238</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>25</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,0414676</CameraRotationX>
-    <CameraRotationY>-0,04245076</CameraRotationY>
-    <CameraRotationZ>0,03813406</CameraRotationZ>
-    <PlayerPositionX>-17,33042</PlayerPositionX>
-    <PlayerPositionY>6,107043</PlayerPositionY>
-    <PlayerPositionZ>2191,171</PlayerPositionZ>
+    <CameraRotationX>-0.0414676</CameraRotationX>
+    <CameraRotationY>-0.04245076</CameraRotationY>
+    <CameraRotationZ>0.03813406</CameraRotationZ>
+    <PlayerPositionX>-17.33042</PlayerPositionX>
+    <PlayerPositionY>6.107043</PlayerPositionY>
+    <PlayerPositionZ>2191.171</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="95,99596">
+  <Data TimeStamp="95.99596">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2897,20 +2897,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>95,99596</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>95.99596</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>25</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,04008338</CameraRotationX>
-    <CameraRotationY>-0,02802342</CameraRotationY>
-    <CameraRotationZ>0,03604785</CameraRotationZ>
-    <PlayerPositionX>-18,44047</PlayerPositionX>
-    <PlayerPositionY>6,500123</PlayerPositionY>
-    <PlayerPositionZ>2216,009</PlayerPositionZ>
+    <CameraRotationX>-0.04008338</CameraRotationX>
+    <CameraRotationY>-0.02802342</CameraRotationY>
+    <CameraRotationZ>0.03604785</CameraRotationZ>
+    <PlayerPositionX>-18.44047</PlayerPositionX>
+    <PlayerPositionY>6.500123</PlayerPositionY>
+    <PlayerPositionZ>2216.009</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="97,00151">
+  <Data TimeStamp="97.00151">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2927,20 +2927,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>97,00151</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>97.00151</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>25</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,02344965</CameraRotationX>
-    <CameraRotationY>-0,02852674</CameraRotationY>
-    <CameraRotationZ>0,03063049</CameraRotationZ>
-    <PlayerPositionX>-18,52594</PlayerPositionX>
-    <PlayerPositionY>7,231242</PlayerPositionY>
-    <PlayerPositionZ>2241,149</PlayerPositionZ>
+    <CameraRotationX>-0.02344965</CameraRotationX>
+    <CameraRotationY>-0.02852674</CameraRotationY>
+    <CameraRotationZ>0.03063049</CameraRotationZ>
+    <PlayerPositionX>-18.52594</PlayerPositionX>
+    <PlayerPositionY>7.231242</PlayerPositionY>
+    <PlayerPositionZ>2241.149</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="98,00671">
+  <Data TimeStamp="98.00671">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2957,20 +2957,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>98,00671</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>98.00671</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>30</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,0205151</CameraRotationX>
-    <CameraRotationY>-0,02228392</CameraRotationY>
-    <CameraRotationZ>0,03528091</CameraRotationZ>
-    <PlayerPositionX>-18,24485</PlayerPositionX>
-    <PlayerPositionY>8,03493</PlayerPositionY>
-    <PlayerPositionZ>2268,118</PlayerPositionZ>
+    <CameraRotationX>-0.0205151</CameraRotationX>
+    <CameraRotationY>-0.02228392</CameraRotationY>
+    <CameraRotationZ>0.03528091</CameraRotationZ>
+    <PlayerPositionX>-18.24485</PlayerPositionX>
+    <PlayerPositionY>8.03493</PlayerPositionY>
+    <PlayerPositionZ>2268.118</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="99,00154">
+  <Data TimeStamp="99.00154">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -2987,20 +2987,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>99,00154</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>99.00154</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>30</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,02214159</CameraRotationX>
-    <CameraRotationY>-0,02197855</CameraRotationY>
-    <CameraRotationZ>0,0355247</CameraRotationZ>
-    <PlayerPositionX>-18,52821</PlayerPositionX>
-    <PlayerPositionY>8,605122</PlayerPositionY>
-    <PlayerPositionZ>2297,963</PlayerPositionZ>
+    <CameraRotationX>-0.02214159</CameraRotationX>
+    <CameraRotationY>-0.02197855</CameraRotationY>
+    <CameraRotationZ>0.0355247</CameraRotationZ>
+    <PlayerPositionX>-18.52821</PlayerPositionX>
+    <PlayerPositionY>8.605122</PlayerPositionY>
+    <PlayerPositionZ>2297.963</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="100,0063">
+  <Data TimeStamp="100.0063">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3017,20 +3017,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>100,0063</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>100.0063</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>30</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,01959873</CameraRotationX>
-    <CameraRotationY>-0,01935333</CameraRotationY>
-    <CameraRotationZ>0,0322036</CameraRotationZ>
-    <PlayerPositionX>-19,16636</PlayerPositionX>
-    <PlayerPositionY>9,039731</PlayerPositionY>
-    <PlayerPositionZ>2328,106</PlayerPositionZ>
+    <CameraRotationX>-0.01959873</CameraRotationX>
+    <CameraRotationY>-0.01935333</CameraRotationY>
+    <CameraRotationZ>0.0322036</CameraRotationZ>
+    <PlayerPositionX>-19.16636</PlayerPositionX>
+    <PlayerPositionY>9.039731</PlayerPositionY>
+    <PlayerPositionZ>2328.106</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="100,9997">
+  <Data TimeStamp="100.9997">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3047,20 +3047,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>100,9997</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>100.9997</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>35</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,01892186</CameraRotationX>
-    <CameraRotationY>-0,01855018</CameraRotationY>
-    <CameraRotationZ>0,03361797</CameraRotationZ>
-    <PlayerPositionX>-18,9856</PlayerPositionX>
-    <PlayerPositionY>8,167092</PlayerPositionY>
-    <PlayerPositionZ>2358,858</PlayerPositionZ>
+    <CameraRotationX>-0.01892186</CameraRotationX>
+    <CameraRotationY>-0.01855018</CameraRotationY>
+    <CameraRotationZ>0.03361797</CameraRotationZ>
+    <PlayerPositionX>-18.9856</PlayerPositionX>
+    <PlayerPositionY>8.167092</PlayerPositionY>
+    <PlayerPositionZ>2358.858</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="102,0052">
+  <Data TimeStamp="102.0052">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3077,20 +3077,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>102,0052</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>102.0052</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>35</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,03371661</CameraRotationX>
-    <CameraRotationY>0,1499667</CameraRotationY>
-    <CameraRotationZ>0,023895</CameraRotationZ>
-    <PlayerPositionX>-7,95161</PlayerPositionX>
-    <PlayerPositionY>7,914411</PlayerPositionY>
-    <PlayerPositionZ>2394,048</PlayerPositionZ>
+    <CameraRotationX>-0.03371661</CameraRotationX>
+    <CameraRotationY>0.1499667</CameraRotationY>
+    <CameraRotationZ>0.023895</CameraRotationZ>
+    <PlayerPositionX>-7.95161</PlayerPositionX>
+    <PlayerPositionY>7.914411</PlayerPositionY>
+    <PlayerPositionZ>2394.048</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="102,9992">
+  <Data TimeStamp="102.9992">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3107,20 +3107,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>102,9992</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>102.9992</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>35</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,0254216</CameraRotationX>
-    <CameraRotationY>0,06393928</CameraRotationY>
-    <CameraRotationZ>0,04150879</CameraRotationZ>
-    <PlayerPositionX>12,23749</PlayerPositionX>
-    <PlayerPositionY>7,90268</PlayerPositionY>
-    <PlayerPositionZ>2428,838</PlayerPositionZ>
+    <CameraRotationX>-0.0254216</CameraRotationX>
+    <CameraRotationY>0.06393928</CameraRotationY>
+    <CameraRotationZ>0.04150879</CameraRotationZ>
+    <PlayerPositionX>12.23749</PlayerPositionX>
+    <PlayerPositionY>7.90268</PlayerPositionY>
+    <PlayerPositionZ>2428.838</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="104,0051">
+  <Data TimeStamp="104.0051">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3137,20 +3137,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>104,0051</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>104.0051</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>40</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,0210836</CameraRotationX>
-    <CameraRotationY>0,04600736</CameraRotationY>
-    <CameraRotationZ>0,04312302</CameraRotationZ>
-    <PlayerPositionX>15,26204</PlayerPositionX>
-    <PlayerPositionY>7,592128</PlayerPositionY>
-    <PlayerPositionZ>2465,72</PlayerPositionZ>
+    <CameraRotationX>-0.0210836</CameraRotationX>
+    <CameraRotationY>0.04600736</CameraRotationY>
+    <CameraRotationZ>0.04312302</CameraRotationZ>
+    <PlayerPositionX>15.26204</PlayerPositionX>
+    <PlayerPositionY>7.592128</PlayerPositionY>
+    <PlayerPositionZ>2465.72</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="104,9992">
+  <Data TimeStamp="104.9992">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3167,20 +3167,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>104,9992</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>104.9992</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>40</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,04182144</CameraRotationX>
-    <CameraRotationY>-0,1192335</CameraRotationY>
-    <CameraRotationZ>0,04793179</CameraRotationZ>
-    <PlayerPositionX>0,2726526</PlayerPositionX>
-    <PlayerPositionY>6,101493</PlayerPositionY>
-    <PlayerPositionZ>2505,483</PlayerPositionZ>
+    <CameraRotationX>-0.04182144</CameraRotationX>
+    <CameraRotationY>-0.1192335</CameraRotationY>
+    <CameraRotationZ>0.04793179</CameraRotationZ>
+    <PlayerPositionX>0.2726526</PlayerPositionX>
+    <PlayerPositionY>6.101493</PlayerPositionY>
+    <PlayerPositionZ>2505.483</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="106,0043">
+  <Data TimeStamp="106.0043">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3197,20 +3197,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>106,0043</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>106.0043</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>40</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,04154253</CameraRotationX>
-    <CameraRotationY>-0,09734434</CameraRotationY>
-    <CameraRotationZ>0,04449881</CameraRotationZ>
-    <PlayerPositionX>-16,12314</PlayerPositionX>
-    <PlayerPositionY>6,538136</PlayerPositionY>
-    <PlayerPositionZ>2545,69</PlayerPositionZ>
+    <CameraRotationX>-0.04154253</CameraRotationX>
+    <CameraRotationY>-0.09734434</CameraRotationY>
+    <CameraRotationZ>0.04449881</CameraRotationZ>
+    <PlayerPositionX>-16.12314</PlayerPositionX>
+    <PlayerPositionY>6.538136</PlayerPositionY>
+    <PlayerPositionZ>2545.69</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="106,9983">
+  <Data TimeStamp="106.9983">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3227,20 +3227,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>106,9983</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>106.9983</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>45</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,07427549</CameraRotationX>
-    <CameraRotationY>0,05194996</CameraRotationY>
-    <CameraRotationZ>0,0527922</CameraRotationZ>
-    <PlayerPositionX>-9,049319</PlayerPositionX>
-    <PlayerPositionY>5,762085</PlayerPositionY>
-    <PlayerPositionZ>2588,966</PlayerPositionZ>
+    <CameraRotationX>-0.07427549</CameraRotationX>
+    <CameraRotationY>0.05194996</CameraRotationY>
+    <CameraRotationZ>0.0527922</CameraRotationZ>
+    <PlayerPositionX>-9.049319</PlayerPositionX>
+    <PlayerPositionY>5.762085</PlayerPositionY>
+    <PlayerPositionZ>2588.966</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="108,0042">
+  <Data TimeStamp="108.0042">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3257,20 +3257,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>108,0042</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>108.0042</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>45</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,07422405</CameraRotationX>
-    <CameraRotationY>0,1118096</CameraRotationY>
-    <CameraRotationZ>0,03422207</CameraRotationZ>
-    <PlayerPositionX>0,3841247</PlayerPositionX>
-    <PlayerPositionY>6,886605</PlayerPositionY>
-    <PlayerPositionZ>2634,233</PlayerPositionZ>
+    <CameraRotationX>-0.07422405</CameraRotationX>
+    <CameraRotationY>0.1118096</CameraRotationY>
+    <CameraRotationZ>0.03422207</CameraRotationZ>
+    <PlayerPositionX>0.3841247</PlayerPositionX>
+    <PlayerPositionY>6.886605</PlayerPositionY>
+    <PlayerPositionZ>2634.233</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="108,9984">
+  <Data TimeStamp="108.9984">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3287,20 +3287,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>108,9984</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>108.9984</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>50</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,06775331</CameraRotationX>
-    <CameraRotationY>0,03242507</CameraRotationY>
-    <CameraRotationZ>0,04943854</CameraRotationZ>
-    <PlayerPositionX>12,20345</PlayerPositionX>
-    <PlayerPositionY>7,144296</PlayerPositionY>
-    <PlayerPositionZ>2680,257</PlayerPositionZ>
+    <CameraRotationX>-0.06775331</CameraRotationX>
+    <CameraRotationY>0.03242507</CameraRotationY>
+    <CameraRotationZ>0.04943854</CameraRotationZ>
+    <PlayerPositionX>12.20345</PlayerPositionX>
+    <PlayerPositionY>7.144296</PlayerPositionY>
+    <PlayerPositionZ>2680.257</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="110,0028">
+  <Data TimeStamp="110.0028">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3317,20 +3317,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>110,0028</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>110.0028</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>50</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,06158413</CameraRotationX>
-    <CameraRotationY>0,02468528</CameraRotationY>
-    <CameraRotationZ>0,0394867</CameraRotationZ>
-    <PlayerPositionX>7,552012</PlayerPositionX>
-    <PlayerPositionY>9,065706</PlayerPositionY>
-    <PlayerPositionZ>2730,479</PlayerPositionZ>
+    <CameraRotationX>-0.06158413</CameraRotationX>
+    <CameraRotationY>0.02468528</CameraRotationY>
+    <CameraRotationZ>0.0394867</CameraRotationZ>
+    <PlayerPositionX>7.552012</PlayerPositionX>
+    <PlayerPositionY>9.065706</PlayerPositionY>
+    <PlayerPositionZ>2730.479</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="110,9977">
+  <Data TimeStamp="110.9977">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3347,20 +3347,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>foreground</RegionOfInterest>
-    <TimeStamp>110,9977</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>110.9977</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>50</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,05054367</CameraRotationX>
-    <CameraRotationY>0,002641297</CameraRotationY>
-    <CameraRotationZ>0,0471379</CameraRotationZ>
-    <PlayerPositionX>12,10943</PlayerPositionX>
-    <PlayerPositionY>8,064158</PlayerPositionY>
-    <PlayerPositionZ>2780,228</PlayerPositionZ>
+    <CameraRotationX>-0.05054367</CameraRotationX>
+    <CameraRotationY>0.002641297</CameraRotationY>
+    <CameraRotationZ>0.0471379</CameraRotationZ>
+    <PlayerPositionX>12.10943</PlayerPositionX>
+    <PlayerPositionY>8.064158</PlayerPositionY>
+    <PlayerPositionZ>2780.228</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="112,0027">
+  <Data TimeStamp="112.0027">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3377,20 +3377,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>112,0027</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>112.0027</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>55</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,06337319</CameraRotationX>
-    <CameraRotationY>-0,1197217</CameraRotationY>
-    <CameraRotationZ>0,0855713</CameraRotationZ>
-    <PlayerPositionX>2,817954</PlayerPositionX>
-    <PlayerPositionY>4,659258</PlayerPositionY>
-    <PlayerPositionZ>2835,275</PlayerPositionZ>
+    <CameraRotationX>-0.06337319</CameraRotationX>
+    <CameraRotationY>-0.1197217</CameraRotationY>
+    <CameraRotationZ>0.0855713</CameraRotationZ>
+    <PlayerPositionX>2.817954</PlayerPositionX>
+    <PlayerPositionY>4.659258</PlayerPositionY>
+    <PlayerPositionZ>2835.275</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="112,9962">
+  <Data TimeStamp="112.9962">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3407,20 +3407,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>112,9962</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>112.9962</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>55</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,0564951</CameraRotationX>
-    <CameraRotationY>-0,09527809</CameraRotationY>
-    <CameraRotationZ>0,06655564</CameraRotationZ>
-    <PlayerPositionX>-14,57491</PlayerPositionX>
-    <PlayerPositionY>6,828776</PlayerPositionY>
-    <PlayerPositionZ>2889,922</PlayerPositionZ>
+    <CameraRotationX>-0.0564951</CameraRotationX>
+    <CameraRotationY>-0.09527809</CameraRotationY>
+    <CameraRotationZ>0.06655564</CameraRotationZ>
+    <PlayerPositionX>-14.57491</PlayerPositionX>
+    <PlayerPositionY>6.828776</PlayerPositionY>
+    <PlayerPositionZ>2889.922</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="114,0014">
+  <Data TimeStamp="114.0014">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3437,20 +3437,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>114,0014</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>114.0014</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>60</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,04826662</CameraRotationX>
-    <CameraRotationY>-0,0452152</CameraRotationY>
-    <CameraRotationZ>0,05733601</CameraRotationZ>
-    <PlayerPositionX>-13,93155</PlayerPositionX>
-    <PlayerPositionY>7,947262</PlayerPositionY>
-    <PlayerPositionZ>2949,109</PlayerPositionZ>
+    <CameraRotationX>-0.04826662</CameraRotationX>
+    <CameraRotationY>-0.0452152</CameraRotationY>
+    <CameraRotationZ>0.05733601</CameraRotationZ>
+    <PlayerPositionX>-13.93155</PlayerPositionX>
+    <PlayerPositionY>7.947262</PlayerPositionY>
+    <PlayerPositionZ>2949.109</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="114,9962">
+  <Data TimeStamp="114.9962">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3467,20 +3467,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>114,9962</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>114.9962</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>60</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,05052049</CameraRotationX>
-    <CameraRotationY>-0,06301637</CameraRotationY>
-    <CameraRotationZ>0,07088766</CameraRotationZ>
-    <PlayerPositionX>-15,52861</PlayerPositionX>
-    <PlayerPositionY>8,231486</PlayerPositionY>
-    <PlayerPositionZ>3008,799</PlayerPositionZ>
+    <CameraRotationX>-0.05052049</CameraRotationX>
+    <CameraRotationY>-0.06301637</CameraRotationY>
+    <CameraRotationZ>0.07088766</CameraRotationZ>
+    <PlayerPositionX>-15.52861</PlayerPositionX>
+    <PlayerPositionY>8.231486</PlayerPositionY>
+    <PlayerPositionZ>3008.799</PlayerPositionZ>
     <GameFps>88</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="116,0005">
+  <Data TimeStamp="116.0005">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3497,20 +3497,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>116,0005</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>116.0005</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>65</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,03619307</CameraRotationX>
-    <CameraRotationY>-0,01598669</CameraRotationY>
-    <CameraRotationZ>0,03100131</CameraRotationZ>
-    <PlayerPositionX>-12,7517</PlayerPositionX>
-    <PlayerPositionY>8,21529</PlayerPositionY>
-    <PlayerPositionZ>3072,514</PlayerPositionZ>
+    <CameraRotationX>-0.03619307</CameraRotationX>
+    <CameraRotationY>-0.01598669</CameraRotationY>
+    <CameraRotationZ>0.03100131</CameraRotationZ>
+    <PlayerPositionX>-12.7517</PlayerPositionX>
+    <PlayerPositionY>8.21529</PlayerPositionY>
+    <PlayerPositionZ>3072.514</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="117,0064">
+  <Data TimeStamp="117.0064">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3527,20 +3527,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>117,0064</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>117.0064</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>65</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,0386905</CameraRotationX>
-    <CameraRotationY>-0,01002738</CameraRotationY>
-    <CameraRotationZ>0,03615969</CameraRotationZ>
-    <PlayerPositionX>-15,57085</PlayerPositionX>
-    <PlayerPositionY>8,20312</PlayerPositionY>
-    <PlayerPositionZ>3137,899</PlayerPositionZ>
+    <CameraRotationX>-0.0386905</CameraRotationX>
+    <CameraRotationY>-0.01002738</CameraRotationY>
+    <CameraRotationZ>0.03615969</CameraRotationZ>
+    <PlayerPositionX>-15.57085</PlayerPositionX>
+    <PlayerPositionY>8.20312</PlayerPositionY>
+    <PlayerPositionZ>3137.899</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="118,0007">
+  <Data TimeStamp="118.0007">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3557,20 +3557,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>118,0007</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>118.0007</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>70</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,0424802</CameraRotationX>
-    <CameraRotationY>0,04197497</CameraRotationY>
-    <CameraRotationZ>0,02248841</CameraRotationZ>
-    <PlayerPositionX>-9,268601</PlayerPositionX>
-    <PlayerPositionY>8,202556</PlayerPositionY>
-    <PlayerPositionZ>3206,002</PlayerPositionZ>
+    <CameraRotationX>-0.0424802</CameraRotationX>
+    <CameraRotationY>0.04197497</CameraRotationY>
+    <CameraRotationZ>0.02248841</CameraRotationZ>
+    <PlayerPositionX>-9.268601</PlayerPositionX>
+    <PlayerPositionY>8.202556</PlayerPositionY>
+    <PlayerPositionZ>3206.002</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="119,0061">
+  <Data TimeStamp="119.0061">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3587,20 +3587,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>middleground</RegionOfInterest>
-    <TimeStamp>119,0061</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>119.0061</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>70</PlayerSpeed>
     <PlayerAcceleration>0</PlayerAcceleration>
-    <CameraRotationX>-0,04250432</CameraRotationX>
-    <CameraRotationY>0,04224369</CameraRotationY>
-    <CameraRotationZ>0,0333664</CameraRotationZ>
-    <PlayerPositionX>6,123415</PlayerPositionX>
-    <PlayerPositionY>8,202536</PlayerPositionY>
-    <PlayerPositionZ>3276,374</PlayerPositionZ>
+    <CameraRotationX>-0.04250432</CameraRotationX>
+    <CameraRotationY>0.04224369</CameraRotationY>
+    <CameraRotationZ>0.0333664</CameraRotationZ>
+    <PlayerPositionX>6.123415</PlayerPositionX>
+    <PlayerPositionY>8.202536</PlayerPositionY>
+    <PlayerPositionZ>3276.374</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="119,9999">
+  <Data TimeStamp="119.9999">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
@@ -3617,20 +3617,20 @@
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>True</CameraAutoMovement>
     <RegionOfInterest>background</RegionOfInterest>
-    <TimeStamp>119,9999</TimeStamp>
-    <CameraFieldOfView>111,8739</CameraFieldOfView>
+    <TimeStamp>119.9999</TimeStamp>
+    <CameraFieldOfView>111.8739</CameraFieldOfView>
     <PlayerSpeed>75</PlayerSpeed>
     <PlayerAcceleration>5</PlayerAcceleration>
-    <CameraRotationX>-0,04679266</CameraRotationX>
-    <CameraRotationY>-0,0005407071</CameraRotationY>
-    <CameraRotationZ>0,05138129</CameraRotationZ>
-    <PlayerPositionX>4,320956</PlayerPositionX>
-    <PlayerPositionY>8,202536</PlayerPositionY>
-    <PlayerPositionZ>3349,793</PlayerPositionZ>
+    <CameraRotationX>-0.04679266</CameraRotationX>
+    <CameraRotationY>-0.0005407071</CameraRotationY>
+    <CameraRotationZ>0.05138129</CameraRotationZ>
+    <PlayerPositionX>4.320956</PlayerPositionX>
+    <PlayerPositionY>8.202536</PlayerPositionY>
+    <PlayerPositionZ>3349.793</PlayerPositionZ>
     <GameFps>90</GameFps>
     <DiscomfortLevel>1</DiscomfortLevel>
   </Data>
-  <Data TimeStamp="121,0048">
+  <Data TimeStamp="121.0048">
     <UserGenere>masculino</UserGenere>
     <UserAge>18 A 36</UserAge>
     <UserExperience>NENHUMA</UserExperience>
