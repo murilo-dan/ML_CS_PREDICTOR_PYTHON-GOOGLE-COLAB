@@ -2,10 +2,10 @@
 <USERDATA>
   <Session A="">
     <GeneralDiscomfort>0</GeneralDiscomfort>
-    <Fatigue>1</Fatigue>
-    <EyeStraing>1</EyeStraing>
-    <DifficultyFocusing>1</DifficultyFocusing>
-    <Headache>1</Headache>
+    <Fatigue>0</Fatigue>
+    <EyeStraing>0</EyeStraing>
+    <DifficultyFocusing>0</DifficultyFocusing>
+    <Headache>0</Headache>
     <FulnessOfHead>0</FulnessOfHead>
     <BlurredVision>0</BlurredVision>
     <DizzyEyesClosed>0</DizzyEyesClosed>
@@ -15,8 +15,8 @@
     <GeneralDiscomfort>0</GeneralDiscomfort>
     <Fatigue>0</Fatigue>
     <EyeStraing>0</EyeStraing>
-    <DifficultyFocusing>1</DifficultyFocusing>
-    <Headache>1</Headache>
+    <DifficultyFocusing>0</DifficultyFocusing>
+    <Headache>0</Headache>
     <FulnessOfHead>0</FulnessOfHead>
     <BlurredVision>0</BlurredVision>
     <DizzyEyesClosed>0</DizzyEyesClosed>
